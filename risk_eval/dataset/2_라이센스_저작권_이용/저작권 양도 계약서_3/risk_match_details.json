@@ -1,0 +1,745 @@
+{
+  "gold_locs": [
+    {
+      "article": 9,
+      "clauses": [
+        "1"
+      ],
+      "page": 32
+    },
+    {
+      "article": 23,
+      "clauses": [
+        "2"
+      ],
+      "page": 60
+    },
+    {
+      "article": 24,
+      "clauses": [
+        "1"
+      ],
+      "page": 62
+    },
+    {
+      "article": 29,
+      "clauses": [
+        "1"
+      ],
+      "page": 72
+    },
+    {
+      "article": 31,
+      "clauses": [
+        "1"
+      ],
+      "page": 76
+    },
+    {
+      "article": 34,
+      "clauses": [
+        "1"
+      ],
+      "page": 82
+    },
+    {
+      "article": 39,
+      "clauses": [
+        "2"
+      ],
+      "page": 92
+    },
+    {
+      "article": 46,
+      "clauses": [
+        "1"
+      ],
+      "page": 106
+    },
+    {
+      "article": 1,
+      "clauses": [
+        "2"
+      ],
+      "page": 1
+    },
+    {
+      "article": 14,
+      "clauses": [
+        "4"
+      ],
+      "page": 42
+    }
+  ],
+  "our_locs": [
+    {
+      "article": 7,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 9,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 9,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 22,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 23,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 34,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 46,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 31,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 31,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 24,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 6,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 2,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 5,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 1,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 40,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 21,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 42,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 23,
+      "clauses": [],
+      "page": null
+    }
+  ],
+  "llm_locs": [
+    {
+      "article": 24,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 24,
+      "clauses": [
+        "1"
+      ],
+      "page": null
+    },
+    {
+      "article": 24,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 46,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 29,
+      "clauses": [],
+      "page": null
+    }
+  ],
+  "our": [
+    {
+      "gold_idx": 0,
+      "pred_idx": 1,
+      "matched": true,
+      "gold_loc": {
+        "article": 9,
+        "clauses": [
+          "1"
+        ],
+        "page": 32
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "대가 지급 정지 및 70% 환수 가능",
+        "loc": {
+          "article": 9,
+          "clause": 1,
+          "page": 32
+        }
+      },
+      "pred_loc": {
+        "article": 9,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "요금·환불·자동결제",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제9 조 (지급 정지, 환수 및 위약금의 조건)"
+      }
+    },
+    {
+      "gold_idx": 1,
+      "pred_idx": 4,
+      "matched": true,
+      "gold_loc": {
+        "article": 23,
+        "clauses": [
+          "2"
+        ],
+        "page": 60
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "간접 손해 면책 및 책임 상한 10% 제한",
+        "loc": {
+          "article": 23,
+          "clause": 2,
+          "page": 60
+        }
+      },
+      "pred_loc": {
+        "article": 23,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "책임상한·간접손해·면책",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제23 조 (을의 책임 범위 및 간접 손해 포기)"
+      }
+    },
+    {
+      "gold_idx": 2,
+      "pred_idx": 9,
+      "matched": true,
+      "gold_loc": {
+        "article": 24,
+        "clauses": [
+          "1"
+        ],
+        "page": 62
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "청구 기간 1년/3년 단축 및 집단 소송 금지",
+        "loc": {
+          "article": 24,
+          "clause": 1,
+          "page": 62
+        }
+      },
+      "pred_loc": {
+        "article": 24,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "해지·분쟁·소송제한",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제24 조 (손해배상 청구 기간의 단축 및 집단 소송 금지)"
+      }
+    },
+    {
+      "gold_idx": 3,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 29,
+        "clauses": [
+          "1"
+        ],
+        "page": 72
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "하자 보수 기간 5년 강제 및 5천만원 위약벌",
+        "loc": {
+          "article": 29,
+          "clause": 1,
+          "page": 72
+        }
+      }
+    },
+    {
+      "gold_idx": 4,
+      "pred_idx": 7,
+      "matched": true,
+      "gold_loc": {
+        "article": 31,
+        "clauses": [
+          "1"
+        ],
+        "page": 76
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "핵심 개발자 5년 이탈 금지 및 1인당 1억원 위약금",
+        "loc": {
+          "article": 31,
+          "clause": 1,
+          "page": 76
+        }
+      },
+      "pred_loc": {
+        "article": 31,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "해지·분쟁·소송제한",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제31 조(핵심 개발자 인력 유지) - 해지권"
+      }
+    },
+    {
+      "gold_idx": 5,
+      "pred_idx": 5,
+      "matched": true,
+      "gold_loc": {
+        "article": 34,
+        "clauses": [
+          "1"
+        ],
+        "page": 82
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "국외 이전 포괄 동의 및 책임 회피",
+        "loc": {
+          "article": 34,
+          "clause": 1,
+          "page": 82
+        }
+      },
+      "pred_loc": {
+        "article": 34,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "개인정보·정보보호·데이터 이용",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제34 조 (국외 이전 포괄 동의 및 책임 회피)"
+      }
+    },
+    {
+      "gold_idx": 6,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 39,
+        "clauses": [
+          "2"
+        ],
+        "page": 92
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "을의 경영상 판단에 의한 일방적 해지 및 대가 반환 면제",
+        "loc": {
+          "article": 39,
+          "clause": 2,
+          "page": 92
+        }
+      }
+    },
+    {
+      "gold_idx": 7,
+      "pred_idx": 6,
+      "matched": true,
+      "gold_loc": {
+        "article": 46,
+        "clauses": [
+          "1"
+        ],
+        "page": 106
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "을의 일방적인 계약 변경권의 절대적 행사",
+        "loc": {
+          "article": 46,
+          "clause": 1,
+          "page": 106
+        }
+      },
+      "pred_loc": {
+        "article": 46,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "서비스/콘텐츠 변경·정지권",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제46 조 (부칙: 을의 일방적인 계약 변경권의 절대성)"
+      }
+    },
+    {
+      "gold_idx": 8,
+      "pred_idx": 13,
+      "matched": true,
+      "gold_loc": {
+        "article": 1,
+        "clauses": [
+          "2"
+        ],
+        "page": 1
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "계약 해석의 을의 이익 최우선 원칙",
+        "loc": {
+          "article": 1,
+          "clause": 2,
+          "page": 1
+        }
+      },
+      "pred_loc": {
+        "article": 1,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "기타",
+        "severity": "medium",
+        "loc": null,
+        "anchor_title": "제1 조 (목적 및 일반 원칙)"
+      }
+    },
+    {
+      "gold_idx": 9,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 14,
+        "clauses": [
+          "4"
+        ],
+        "page": 42
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "침해 위험의 높은 수준의 사전 인지 의무",
+        "loc": {
+          "article": 14,
+          "clause": 4,
+          "page": 42
+        }
+      }
+    }
+  ],
+  "llm": [
+    {
+      "gold_idx": 0,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 9,
+        "clauses": [
+          "1"
+        ],
+        "page": 32
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "대가 지급 정지 및 70% 환수 가능",
+        "loc": {
+          "article": 9,
+          "clause": 1,
+          "page": 32
+        }
+      }
+    },
+    {
+      "gold_idx": 1,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 23,
+        "clauses": [
+          "2"
+        ],
+        "page": 60
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "간접 손해 면책 및 책임 상한 10% 제한",
+        "loc": {
+          "article": 23,
+          "clause": 2,
+          "page": 60
+        }
+      }
+    },
+    {
+      "gold_idx": 2,
+      "pred_idx": 1,
+      "matched": true,
+      "gold_loc": {
+        "article": 24,
+        "clauses": [
+          "1"
+        ],
+        "page": 62
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "청구 기간 1년/3년 단축 및 집단 소송 금지",
+        "loc": {
+          "article": 24,
+          "clause": 1,
+          "page": 62
+        }
+      },
+      "pred_loc": {
+        "article": 24,
+        "clauses": [
+          "1"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "간접·특별·징벌적·결과적 손해 전면 면책",
+        "severity": "high",
+        "loc": {
+          "article": 24,
+          "clause": "",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 3,
+      "pred_idx": 4,
+      "matched": true,
+      "gold_loc": {
+        "article": 29,
+        "clauses": [
+          "1"
+        ],
+        "page": 72
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "하자 보수 기간 5년 강제 및 5천만원 위약벌",
+        "loc": {
+          "article": 29,
+          "clause": 1,
+          "page": 72
+        }
+      },
+      "pred_loc": {
+        "article": 29,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "국외 이전 포괄 동의",
+        "severity": "high",
+        "loc": {
+          "article": null,
+          "clause": "",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 4,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 31,
+        "clauses": [
+          "1"
+        ],
+        "page": 76
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "핵심 개발자 5년 이탈 금지 및 1인당 1억원 위약금",
+        "loc": {
+          "article": 31,
+          "clause": 1,
+          "page": 76
+        }
+      }
+    },
+    {
+      "gold_idx": 5,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 34,
+        "clauses": [
+          "1"
+        ],
+        "page": 82
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "국외 이전 포괄 동의 및 책임 회피",
+        "loc": {
+          "article": 34,
+          "clause": 1,
+          "page": 82
+        }
+      }
+    },
+    {
+      "gold_idx": 6,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 39,
+        "clauses": [
+          "2"
+        ],
+        "page": 92
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "을의 경영상 판단에 의한 일방적 해지 및 대가 반환 면제",
+        "loc": {
+          "article": 39,
+          "clause": 2,
+          "page": 92
+        }
+      }
+    },
+    {
+      "gold_idx": 7,
+      "pred_idx": 3,
+      "matched": true,
+      "gold_loc": {
+        "article": 46,
+        "clauses": [
+          "1"
+        ],
+        "page": 106
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "을의 일방적인 계약 변경권의 절대적 행사",
+        "loc": {
+          "article": 46,
+          "clause": 1,
+          "page": 106
+        }
+      },
+      "pred_loc": {
+        "article": 46,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "집단소송 금지",
+        "severity": "high",
+        "loc": {
+          "article": 24,
+          "clause": "2",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 8,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 1,
+        "clauses": [
+          "2"
+        ],
+        "page": 1
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "계약 해석의 을의 이익 최우선 원칙",
+        "loc": {
+          "article": 1,
+          "clause": 2,
+          "page": 1
+        }
+      }
+    },
+    {
+      "gold_idx": 9,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 14,
+        "clauses": [
+          "4"
+        ],
+        "page": 42
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "침해 위험의 높은 수준의 사전 인지 의무",
+        "loc": {
+          "article": 14,
+          "clause": 4,
+          "page": 42
+        }
+      }
+    }
+  ]
+}

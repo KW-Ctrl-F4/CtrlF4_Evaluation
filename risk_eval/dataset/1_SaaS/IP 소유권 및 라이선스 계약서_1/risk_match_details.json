@@ -1,0 +1,1133 @@
+{
+  "gold_locs": [
+    {
+      "article": 3,
+      "clauses": [
+        "2"
+      ],
+      "page": 3
+    },
+    {
+      "article": 3,
+      "clauses": [
+        "4",
+        "5"
+      ],
+      "page": 3
+    },
+    {
+      "article": 3,
+      "clauses": [
+        "6"
+      ],
+      "page": 3
+    },
+    {
+      "article": 4,
+      "clauses": [
+        "2"
+      ],
+      "page": 4
+    },
+    {
+      "article": 4,
+      "clauses": [
+        "4"
+      ],
+      "page": 4
+    },
+    {
+      "article": 2,
+      "clauses": [
+        "1",
+        "2"
+      ],
+      "page": 8
+    },
+    {
+      "article": 7,
+      "clauses": [
+        "1",
+        "2"
+      ],
+      "page": 6
+    },
+    {
+      "article": 8,
+      "clauses": [
+        "1"
+      ],
+      "page": 6
+    },
+    {
+      "article": 8,
+      "clauses": [
+        "2"
+      ],
+      "page": 7
+    },
+    {
+      "article": 9,
+      "clauses": [
+        "2"
+      ],
+      "page": 7
+    },
+    {
+      "article": 9,
+      "clauses": [
+        "3"
+      ],
+      "page": 7
+    },
+    {
+      "article": 9,
+      "clauses": [
+        "4"
+      ],
+      "page": 7
+    },
+    {
+      "article": 10,
+      "clauses": [
+        "2"
+      ],
+      "page": 8
+    },
+    {
+      "article": 3,
+      "clauses": [],
+      "page": 8
+    }
+  ],
+  "our_locs": [
+    {
+      "article": 1,
+      "clauses": [
+        "2",
+        "5"
+      ],
+      "page": null
+    },
+    {
+      "article": 1,
+      "clauses": [
+        "5",
+        "6"
+      ],
+      "page": null
+    },
+    {
+      "article": 9,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 2,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 8,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 9,
+      "clauses": [
+        "2",
+        "4"
+      ],
+      "page": null
+    },
+    {
+      "article": 2,
+      "clauses": [
+        "4"
+      ],
+      "page": null
+    },
+    {
+      "article": 1,
+      "clauses": [
+        "6"
+      ],
+      "page": null
+    },
+    {
+      "article": 1,
+      "clauses": [
+        "8"
+      ],
+      "page": null
+    },
+    {
+      "article": 8,
+      "clauses": [
+        "1"
+      ],
+      "page": null
+    },
+    {
+      "article": 1,
+      "clauses": [
+        "4"
+      ],
+      "page": null
+    },
+    {
+      "article": 8,
+      "clauses": [
+        "4"
+      ],
+      "page": null
+    },
+    {
+      "article": 1,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 9,
+      "clauses": [
+        "3"
+      ],
+      "page": null
+    },
+    {
+      "article": 3,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    }
+  ],
+  "llm_locs": [
+    {
+      "article": 3,
+      "clauses": [
+        "2"
+      ],
+      "page": 3
+    },
+    {
+      "article": 3,
+      "clauses": [
+        "5"
+      ],
+      "page": 3
+    },
+    {
+      "article": 3,
+      "clauses": [
+        "6"
+      ],
+      "page": 4
+    },
+    {
+      "article": 5,
+      "clauses": [
+        "1",
+        "2"
+      ],
+      "page": 5
+    },
+    {
+      "article": 8,
+      "clauses": [
+        "1"
+      ],
+      "page": 6
+    },
+    {
+      "article": 8,
+      "clauses": [
+        "2"
+      ],
+      "page": 6
+    },
+    {
+      "article": 9,
+      "clauses": [
+        "2"
+      ],
+      "page": 7
+    },
+    {
+      "article": 9,
+      "clauses": [
+        "3"
+      ],
+      "page": 7
+    },
+    {
+      "article": 9,
+      "clauses": [
+        "4"
+      ],
+      "page": 7
+    },
+    {
+      "article": 10,
+      "clauses": [
+        "2"
+      ],
+      "page": 7
+    },
+    {
+      "article": 10,
+      "clauses": [
+        "3",
+        "5"
+      ],
+      "page": 7
+    }
+  ],
+  "our": [
+    {
+      "gold_idx": 0,
+      "pred_idx": 14,
+      "matched": true,
+      "gold_loc": {
+        "article": 3,
+        "clauses": [
+          "2"
+        ],
+        "page": 3
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "개발자(을) 콘텐츠의 광범위한 라이선스 (AI 학습)",
+        "loc": {
+          "article": 3,
+          "clause": 2,
+          "page": 3
+        }
+      },
+      "pred_loc": {
+        "article": 3,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "3) 개인정보·정보보호·데이터 이용",
+        "severity": "low",
+        "loc": null,
+        "anchor_title": "제 3 조 제2 항 (데이터 국외 이전 포괄 동의)"
+      }
+    },
+    {
+      "gold_idx": 1,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 3,
+        "clauses": [
+          "4",
+          "5"
+        ],
+        "page": 3
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "개발자(을)의 개선 IP 및 피드백 권리 강탈",
+        "loc": {
+          "article": 3,
+          "clause": "4, 5",
+          "page": 3
+        }
+      }
+    },
+    {
+      "gold_idx": 2,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 3,
+        "clauses": [
+          "6"
+        ],
+        "page": 3
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "저작인격권 포기 (동일성유지권)",
+        "loc": {
+          "article": 3,
+          "clause": 6,
+          "page": 3
+        }
+      }
+    },
+    {
+      "gold_idx": 3,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 4,
+        "clauses": [
+          "2"
+        ],
+        "page": 4
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "불리한 수익 정산 (20% 관리비 공제)",
+        "loc": {
+          "article": 4,
+          "clause": 2,
+          "page": 4
+        }
+      }
+    },
+    {
+      "gold_idx": 4,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 4,
+        "clauses": [
+          "4"
+        ],
+        "page": 4
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "15일 단기 청구 기한 (수익 정산)",
+        "loc": {
+          "article": 4,
+          "clause": 4,
+          "page": 4
+        }
+      }
+    },
+    {
+      "gold_idx": 5,
+      "pred_idx": 3,
+      "matched": true,
+      "gold_loc": {
+        "article": 2,
+        "clauses": [
+          "1",
+          "2"
+        ],
+        "page": 8
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "데이터 국외 이전 포괄적 동의 (고지 면제)",
+        "loc": {
+          "article": "부칙 2조",
+          "clause": "1, 2",
+          "page": 8
+        }
+      },
+      "pred_loc": {
+        "article": 2,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "1) 요금·환불·자동결제",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제2 조 제2 항 (순매출액의 정의)"
+      }
+    },
+    {
+      "gold_idx": 6,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 7,
+        "clauses": [
+          "1",
+          "2"
+        ],
+        "page": 6
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "광범위한 보증 부인 (AS IS, 비침해 보증 배제)",
+        "loc": {
+          "article": 7,
+          "clause": "1, 2",
+          "page": 6
+        }
+      }
+    },
+    {
+      "gold_idx": 7,
+      "pred_idx": 9,
+      "matched": true,
+      "gold_loc": {
+        "article": 8,
+        "clauses": [
+          "1"
+        ],
+        "page": 6
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "플랫폼 소유자(갑)의 간접/결과적 손해 배상 배제",
+        "loc": {
+          "article": 8,
+          "clause": 1,
+          "page": 6
+        }
+      },
+      "pred_loc": {
+        "article": 8,
+        "clauses": [
+          "1"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "2) 책임상한·간접손해·면책",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제 8 조 제1 항 (간접 손해 등의 배제)"
+      }
+    },
+    {
+      "gold_idx": 8,
+      "pred_idx": 4,
+      "matched": true,
+      "gold_loc": {
+        "article": 8,
+        "clauses": [
+          "2"
+        ],
+        "page": 7
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "플랫폼 소유자(갑)의 배상 책임 3개월 수익 한도",
+        "loc": {
+          "article": 8,
+          "clause": 2,
+          "page": 7
+        }
+      },
+      "pred_loc": {
+        "article": 8,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "2) 책임상한·간접손해·면책",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제 8 조 제2 항 (책임 상한)"
+      }
+    },
+    {
+      "gold_idx": 9,
+      "pred_idx": 2,
+      "matched": true,
+      "gold_loc": {
+        "article": 9,
+        "clauses": [
+          "2"
+        ],
+        "page": 7
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "강제적 해외 중재 (싱가포르)",
+        "loc": {
+          "article": 9,
+          "clause": 2,
+          "page": 7
+        }
+      },
+      "pred_loc": {
+        "article": 9,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "6) 해지·분쟁·소송제한",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제 9 조 제2 항 (강제적 해외 중재)"
+      }
+    },
+    {
+      "gold_idx": 10,
+      "pred_idx": 13,
+      "matched": true,
+      "gold_loc": {
+        "article": 9,
+        "clauses": [
+          "3"
+        ],
+        "page": 7
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "집단 소송 금지 (개발자 한정)",
+        "loc": {
+          "article": 9,
+          "clause": 3,
+          "page": 7
+        }
+      },
+      "pred_loc": {
+        "article": 9,
+        "clauses": [
+          "3"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "6) 해지·분쟁·소송제한",
+        "severity": "medium",
+        "loc": null,
+        "anchor_title": "제 9 조 제3 항 (집단 소송 금지)"
+      }
+    },
+    {
+      "gold_idx": 11,
+      "pred_idx": 5,
+      "matched": true,
+      "gold_loc": {
+        "article": 9,
+        "clauses": [
+          "4"
+        ],
+        "page": 7
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "1년 단기 청구 기한 제한 (개발자 한정)",
+        "loc": {
+          "article": 9,
+          "clause": 4,
+          "page": 7
+        }
+      },
+      "pred_loc": {
+        "article": 9,
+        "clauses": [
+          "2",
+          "4"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "6) 해지·분쟁·소송제한",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제 9 조 제4 항 (청구 기한 단축)"
+      }
+    },
+    {
+      "gold_idx": 12,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 10,
+        "clauses": [
+          "2"
+        ],
+        "page": 8
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "플랫폼 소유자(갑)의 일방적 계약 변경권 (묵시적 동의)",
+        "loc": {
+          "article": 10,
+          "clause": 2,
+          "page": 8
+        }
+      }
+    },
+    {
+      "gold_idx": 13,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 3,
+        "clauses": [],
+        "page": 8
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "부칙의 최우선 적용 (참조 교란)",
+        "loc": {
+          "article": "부칙 3조",
+          "clause": null,
+          "page": 8
+        }
+      }
+    }
+  ],
+  "llm": [
+    {
+      "gold_idx": 0,
+      "pred_idx": 0,
+      "matched": true,
+      "gold_loc": {
+        "article": 3,
+        "clauses": [
+          "2"
+        ],
+        "page": 3
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "개발자(을) 콘텐츠의 광범위한 라이선스 (AI 학습)",
+        "loc": {
+          "article": 3,
+          "clause": 2,
+          "page": 3
+        }
+      },
+      "pred_loc": {
+        "article": 3,
+        "clauses": [
+          "2"
+        ],
+        "page": 3
+      },
+      "pred_item": {
+        "type": "AI 학습·2차적 저작물 작성 등 광범위·영구적 사용 라이선스",
+        "severity": "high",
+        "loc": {
+          "article": 3,
+          "clause": "2",
+          "page": 3
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 1,
+      "pred_idx": 1,
+      "matched": true,
+      "gold_loc": {
+        "article": 3,
+        "clauses": [
+          "4",
+          "5"
+        ],
+        "page": 3
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "개발자(을)의 개선 IP 및 피드백 권리 강탈",
+        "loc": {
+          "article": 3,
+          "clause": "4, 5",
+          "page": 3
+        }
+      },
+      "pred_loc": {
+        "article": 3,
+        "clauses": [
+          "5"
+        ],
+        "page": 3
+      },
+      "pred_item": {
+        "type": "파생 IP의 전면적 귀속(기여도 무관 IP 강탈 구조)",
+        "severity": "high",
+        "loc": {
+          "article": 3,
+          "clause": "5",
+          "page": 3
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 2,
+      "pred_idx": 2,
+      "matched": true,
+      "gold_loc": {
+        "article": 3,
+        "clauses": [
+          "6"
+        ],
+        "page": 3
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "저작인격권 포기 (동일성유지권)",
+        "loc": {
+          "article": 3,
+          "clause": 6,
+          "page": 3
+        }
+      },
+      "pred_loc": {
+        "article": 3,
+        "clauses": [
+          "6"
+        ],
+        "page": 4
+      },
+      "pred_item": {
+        "type": "저작인격권 포기(동일성 유지권 포함)",
+        "severity": "high",
+        "loc": {
+          "article": 3,
+          "clause": "6",
+          "page": 4
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 3,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 4,
+        "clauses": [
+          "2"
+        ],
+        "page": 4
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "불리한 수익 정산 (20% 관리비 공제)",
+        "loc": {
+          "article": 4,
+          "clause": 2,
+          "page": 4
+        }
+      }
+    },
+    {
+      "gold_idx": 4,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 4,
+        "clauses": [
+          "4"
+        ],
+        "page": 4
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "15일 단기 청구 기한 (수익 정산)",
+        "loc": {
+          "article": 4,
+          "clause": 4,
+          "page": 4
+        }
+      }
+    },
+    {
+      "gold_idx": 5,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 2,
+        "clauses": [
+          "1",
+          "2"
+        ],
+        "page": 8
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "데이터 국외 이전 포괄적 동의 (고지 면제)",
+        "loc": {
+          "article": "부칙 2조",
+          "clause": "1, 2",
+          "page": 8
+        }
+      }
+    },
+    {
+      "gold_idx": 6,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 7,
+        "clauses": [
+          "1",
+          "2"
+        ],
+        "page": 6
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "광범위한 보증 부인 (AS IS, 비침해 보증 배제)",
+        "loc": {
+          "article": 7,
+          "clause": "1, 2",
+          "page": 6
+        }
+      }
+    },
+    {
+      "gold_idx": 7,
+      "pred_idx": 4,
+      "matched": true,
+      "gold_loc": {
+        "article": 8,
+        "clauses": [
+          "1"
+        ],
+        "page": 6
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "플랫폼 소유자(갑)의 간접/결과적 손해 배상 배제",
+        "loc": {
+          "article": 8,
+          "clause": 1,
+          "page": 6
+        }
+      },
+      "pred_loc": {
+        "article": 8,
+        "clauses": [
+          "1"
+        ],
+        "page": 6
+      },
+      "pred_item": {
+        "type": "개인정보 국외 이전 포괄 동의 및 고지 의무 면제",
+        "severity": "high",
+        "loc": {
+          "article": null,
+          "clause": "",
+          "page": 8
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 8,
+      "pred_idx": 5,
+      "matched": true,
+      "gold_loc": {
+        "article": 8,
+        "clauses": [
+          "2"
+        ],
+        "page": 7
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "플랫폼 소유자(갑)의 배상 책임 3개월 수익 한도",
+        "loc": {
+          "article": 8,
+          "clause": 2,
+          "page": 7
+        }
+      },
+      "pred_loc": {
+        "article": 8,
+        "clauses": [
+          "2"
+        ],
+        "page": 6
+      },
+      "pred_item": {
+        "type": "간접손해·결과적 손해 등 책임 전면 면책",
+        "severity": "high",
+        "loc": {
+          "article": 8,
+          "clause": "1",
+          "page": 6
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 9,
+      "pred_idx": 6,
+      "matched": true,
+      "gold_loc": {
+        "article": 9,
+        "clauses": [
+          "2"
+        ],
+        "page": 7
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "강제적 해외 중재 (싱가포르)",
+        "loc": {
+          "article": 9,
+          "clause": 2,
+          "page": 7
+        }
+      },
+      "pred_loc": {
+        "article": 9,
+        "clauses": [
+          "2"
+        ],
+        "page": 7
+      },
+      "pred_item": {
+        "type": "책임 상한 0원(₩0 Cap 포함)",
+        "severity": "high",
+        "loc": {
+          "article": 8,
+          "clause": "2",
+          "page": 6
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 10,
+      "pred_idx": 7,
+      "matched": true,
+      "gold_loc": {
+        "article": 9,
+        "clauses": [
+          "3"
+        ],
+        "page": 7
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "집단 소송 금지 (개발자 한정)",
+        "loc": {
+          "article": 9,
+          "clause": 3,
+          "page": 7
+        }
+      },
+      "pred_loc": {
+        "article": 9,
+        "clauses": [
+          "3"
+        ],
+        "page": 7
+      },
+      "pred_item": {
+        "type": "강제적 해외 중재 및 싱가포르 SIAC 단독 중재",
+        "severity": "high",
+        "loc": {
+          "article": 9,
+          "clause": "2",
+          "page": 7
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 11,
+      "pred_idx": 8,
+      "matched": true,
+      "gold_loc": {
+        "article": 9,
+        "clauses": [
+          "4"
+        ],
+        "page": 7
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "1년 단기 청구 기한 제한 (개발자 한정)",
+        "loc": {
+          "article": 9,
+          "clause": 4,
+          "page": 7
+        }
+      },
+      "pred_loc": {
+        "article": 9,
+        "clauses": [
+          "4"
+        ],
+        "page": 7
+      },
+      "pred_item": {
+        "type": "집단 소송·집단 중재 금지",
+        "severity": "high",
+        "loc": {
+          "article": 9,
+          "clause": "3",
+          "page": 7
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 12,
+      "pred_idx": 9,
+      "matched": true,
+      "gold_loc": {
+        "article": 10,
+        "clauses": [
+          "2"
+        ],
+        "page": 8
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "플랫폼 소유자(갑)의 일방적 계약 변경권 (묵시적 동의)",
+        "loc": {
+          "article": 10,
+          "clause": 2,
+          "page": 8
+        }
+      },
+      "pred_loc": {
+        "article": 10,
+        "clauses": [
+          "2"
+        ],
+        "page": 7
+      },
+      "pred_item": {
+        "type": "청구 기간 1년 제한",
+        "severity": "high",
+        "loc": {
+          "article": 9,
+          "clause": "4",
+          "page": 7
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 13,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 3,
+        "clauses": [],
+        "page": 8
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "부칙의 최우선 적용 (참조 교란)",
+        "loc": {
+          "article": "부칙 3조",
+          "clause": null,
+          "page": 8
+        }
+      }
+    }
+  ]
+}

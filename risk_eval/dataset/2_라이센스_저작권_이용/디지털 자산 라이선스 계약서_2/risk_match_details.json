@@ -1,0 +1,950 @@
+{
+  "gold_locs": [
+    {
+      "article": 6,
+      "clauses": [
+        "3",
+        "5"
+      ],
+      "page": 4
+    },
+    {
+      "article": 9,
+      "clauses": [
+        "2",
+        "3"
+      ],
+      "page": 6
+    },
+    {
+      "article": 13,
+      "clauses": [
+        "1"
+      ],
+      "page": 8
+    },
+    {
+      "article": 14,
+      "clauses": [
+        "1"
+      ],
+      "page": 9
+    },
+    {
+      "article": 14,
+      "clauses": [
+        "2"
+      ],
+      "page": 9
+    },
+    {
+      "article": 15,
+      "clauses": [
+        "2"
+      ],
+      "page": 9
+    },
+    {
+      "article": 15,
+      "clauses": [
+        "3"
+      ],
+      "page": 9
+    },
+    {
+      "article": 16,
+      "clauses": [
+        "2"
+      ],
+      "page": 11
+    },
+    {
+      "article": 16,
+      "clauses": [
+        "3"
+      ],
+      "page": 11
+    },
+    {
+      "article": 16,
+      "clauses": [
+        "4"
+      ],
+      "page": 11
+    },
+    {
+      "article": 16,
+      "clauses": [
+        "5"
+      ],
+      "page": 11
+    },
+    {
+      "article": 2,
+      "clauses": [
+        "1",
+        "2"
+      ],
+      "page": 15
+    }
+  ],
+  "our_locs": [
+    {
+      "article": 3,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 6,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 6,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 9,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 9,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 14,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 14,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 16,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 16,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 16,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 4,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 3,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 13,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 4,
+      "clauses": [],
+      "page": null
+    }
+  ],
+  "llm_locs": [
+    {
+      "article": 16,
+      "clauses": [
+        "4",
+        "5"
+      ],
+      "page": 10
+    },
+    {
+      "article": 14,
+      "clauses": [
+        "1"
+      ],
+      "page": 8
+    },
+    {
+      "article": 14,
+      "clauses": [
+        "2"
+      ],
+      "page": 8
+    },
+    {
+      "article": 6,
+      "clauses": [
+        "3",
+        "5"
+      ],
+      "page": 4
+    },
+    {
+      "article": 9,
+      "clauses": [
+        "2",
+        "3"
+      ],
+      "page": 5
+    },
+    {
+      "article": 15,
+      "clauses": [
+        "2"
+      ],
+      "page": 9
+    },
+    {
+      "article": 15,
+      "clauses": [
+        "4"
+      ],
+      "page": 9
+    },
+    {
+      "article": 8,
+      "clauses": [
+        "3"
+      ],
+      "page": 5
+    }
+  ],
+  "our": [
+    {
+      "gold_idx": 0,
+      "pred_idx": 1,
+      "matched": true,
+      "gold_loc": {
+        "article": 6,
+        "clauses": [
+          "3",
+          "5"
+        ],
+        "page": 4
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "자동 결제 및 환불 불가",
+        "loc": {
+          "article": 6,
+          "clause": "3, 5",
+          "page": 4
+        }
+      },
+      "pred_loc": {
+        "article": 6,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "요금·환불·자동결제",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제 6 조 (라이선스료 및 결제) - 환불 불가"
+      }
+    },
+    {
+      "gold_idx": 1,
+      "pred_idx": 3,
+      "matched": true,
+      "gold_loc": {
+        "article": 9,
+        "clauses": [
+          "2",
+          "3"
+        ],
+        "page": 6
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "라이선시(고객) 창작물에 대한 광범위한 역라이선스 부여",
+        "loc": {
+          "article": 9,
+          "clause": "2, 3",
+          "page": 6
+        }
+      },
+      "pred_loc": {
+        "article": 9,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "개인정보·정보보호·데이터 이용",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제 9 조 (라이선시 창작물 및 데이터) - AI 학습 데이터 활용"
+      }
+    },
+    {
+      "gold_idx": 2,
+      "pred_idx": 12,
+      "matched": true,
+      "gold_loc": {
+        "article": 13,
+        "clauses": [
+          "1"
+        ],
+        "page": 8
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "광범위한 보증 부인 (AS IS)",
+        "loc": {
+          "article": 13,
+          "clause": 1,
+          "page": 8
+        }
+      },
+      "pred_loc": {
+        "article": 13,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "책임상한·간접손해·면책",
+        "severity": "medium",
+        "loc": null,
+        "anchor_title": "제 13 조 (보증의 부인) - AS IS 제공"
+      }
+    },
+    {
+      "gold_idx": 3,
+      "pred_idx": 5,
+      "matched": true,
+      "gold_loc": {
+        "article": 14,
+        "clauses": [
+          "1"
+        ],
+        "page": 9
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "간접/결과적 손해 배상 배제",
+        "loc": {
+          "article": 14,
+          "clause": 1,
+          "page": 9
+        }
+      },
+      "pred_loc": {
+        "article": 14,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "책임상한·간접손해·면책",
+        "severity": "medium",
+        "loc": null,
+        "anchor_title": "제 14 조 (책임의 제한) - 간접 손해 등 배제"
+      }
+    },
+    {
+      "gold_idx": 4,
+      "pred_idx": 5,
+      "matched": true,
+      "gold_loc": {
+        "article": 14,
+        "clauses": [
+          "2"
+        ],
+        "page": 9
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "배상 책임 6개월 요금 한도",
+        "loc": {
+          "article": 14,
+          "clause": 2,
+          "page": 9
+        }
+      },
+      "pred_loc": {
+        "article": 14,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "책임상한·간접손해·면책",
+        "severity": "medium",
+        "loc": null,
+        "anchor_title": "제 14 조 (책임의 제한) - 간접 손해 등 배제"
+      }
+    },
+    {
+      "gold_idx": 5,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 15,
+        "clauses": [
+          "2"
+        ],
+        "page": 9
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "공급사(을)의 일방적 정책 변경 및 묵시적 동의 (의미 변형)",
+        "loc": {
+          "article": 15,
+          "clause": 2,
+          "page": 9
+        }
+      }
+    },
+    {
+      "gold_idx": 6,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 15,
+        "clauses": [
+          "3"
+        ],
+        "page": 9
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "고객(갑)의 광범위한 면책 의무",
+        "loc": {
+          "article": 15,
+          "clause": 3,
+          "page": 9
+        }
+      }
+    },
+    {
+      "gold_idx": 7,
+      "pred_idx": 9,
+      "matched": true,
+      "gold_loc": {
+        "article": 16,
+        "clauses": [
+          "2"
+        ],
+        "page": 11
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "강제적 해외 중재 (싱가포르)",
+        "loc": {
+          "article": 16,
+          "clause": 2,
+          "page": 11
+        }
+      },
+      "pred_loc": {
+        "article": 16,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "해지·분쟁·소송제한",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제 16 조 (준거법 및 분쟁 해결) - 청구 기한 단축"
+      }
+    },
+    {
+      "gold_idx": 8,
+      "pred_idx": 7,
+      "matched": true,
+      "gold_loc": {
+        "article": 16,
+        "clauses": [
+          "3"
+        ],
+        "page": 11
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "관할 법원 혼선 (참조 교란)",
+        "loc": {
+          "article": 16,
+          "clause": 3,
+          "page": 11
+        }
+      },
+      "pred_loc": {
+        "article": 16,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "해지·분쟁·소송제한",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제 16 조 (준거법 및 분쟁 해결) - 싱가포르 중재 및 영어 진행"
+      }
+    },
+    {
+      "gold_idx": 9,
+      "pred_idx": 7,
+      "matched": true,
+      "gold_loc": {
+        "article": 16,
+        "clauses": [
+          "4"
+        ],
+        "page": 11
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "집단 소송 금지",
+        "loc": {
+          "article": 16,
+          "clause": 4,
+          "page": 11
+        }
+      },
+      "pred_loc": {
+        "article": 16,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "해지·분쟁·소송제한",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제 16 조 (준거법 및 분쟁 해결) - 싱가포르 중재 및 영어 진행"
+      }
+    },
+    {
+      "gold_idx": 10,
+      "pred_idx": 7,
+      "matched": true,
+      "gold_loc": {
+        "article": 16,
+        "clauses": [
+          "5"
+        ],
+        "page": 11
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "1년 단기 청구 기한 제한",
+        "loc": {
+          "article": 16,
+          "clause": 5,
+          "page": 11
+        }
+      },
+      "pred_loc": {
+        "article": 16,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "해지·분쟁·소송제한",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제 16 조 (준거법 및 분쟁 해결) - 싱가포르 중재 및 영어 진행"
+      }
+    },
+    {
+      "gold_idx": 11,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 2,
+        "clauses": [
+          "1",
+          "2"
+        ],
+        "page": 15
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "데이터 국외 이전 포괄적 동의 (부칙 이동)",
+        "loc": {
+          "article": "부칙 2조",
+          "clause": "1, 2",
+          "page": 15
+        }
+      }
+    }
+  ],
+  "llm": [
+    {
+      "gold_idx": 0,
+      "pred_idx": 3,
+      "matched": true,
+      "gold_loc": {
+        "article": 6,
+        "clauses": [
+          "3",
+          "5"
+        ],
+        "page": 4
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "자동 결제 및 환불 불가",
+        "loc": {
+          "article": 6,
+          "clause": "3, 5",
+          "page": 4
+        }
+      },
+      "pred_loc": {
+        "article": 6,
+        "clauses": [
+          "3",
+          "5"
+        ],
+        "page": 4
+      },
+      "pred_item": {
+        "type": "환불 불가 + 자동 결제",
+        "severity": "high",
+        "loc": {
+          "article": 6,
+          "clause": "3, 5",
+          "page": 4
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 1,
+      "pred_idx": 4,
+      "matched": true,
+      "gold_loc": {
+        "article": 9,
+        "clauses": [
+          "2",
+          "3"
+        ],
+        "page": 6
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "라이선시(고객) 창작물에 대한 광범위한 역라이선스 부여",
+        "loc": {
+          "article": 9,
+          "clause": "2, 3",
+          "page": 6
+        }
+      },
+      "pred_loc": {
+        "article": 9,
+        "clauses": [
+          "2",
+          "3"
+        ],
+        "page": 5
+      },
+      "pred_item": {
+        "type": "갑의 업로드 콘텐츠에 대한 영구·전세계적·취소불가 라이선스 부여",
+        "severity": "high",
+        "loc": {
+          "article": 9,
+          "clause": "2, 3",
+          "page": 5
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 2,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 13,
+        "clauses": [
+          "1"
+        ],
+        "page": 8
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "광범위한 보증 부인 (AS IS)",
+        "loc": {
+          "article": 13,
+          "clause": 1,
+          "page": 8
+        }
+      }
+    },
+    {
+      "gold_idx": 3,
+      "pred_idx": 1,
+      "matched": true,
+      "gold_loc": {
+        "article": 14,
+        "clauses": [
+          "1"
+        ],
+        "page": 9
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "간접/결과적 손해 배상 배제",
+        "loc": {
+          "article": 14,
+          "clause": 1,
+          "page": 9
+        }
+      },
+      "pred_loc": {
+        "article": 14,
+        "clauses": [
+          "1"
+        ],
+        "page": 8
+      },
+      "pred_item": {
+        "type": "간접손해·특별손해·결과적 손해 전체 면책",
+        "severity": "high",
+        "loc": {
+          "article": 14,
+          "clause": "1",
+          "page": 8
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 4,
+      "pred_idx": 2,
+      "matched": true,
+      "gold_loc": {
+        "article": 14,
+        "clauses": [
+          "2"
+        ],
+        "page": 9
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "배상 책임 6개월 요금 한도",
+        "loc": {
+          "article": 14,
+          "clause": 2,
+          "page": 9
+        }
+      },
+      "pred_loc": {
+        "article": 14,
+        "clauses": [
+          "2"
+        ],
+        "page": 8
+      },
+      "pred_item": {
+        "type": "책임 총액 상한(최근 6개월 지급액 한도)",
+        "severity": "medium",
+        "loc": {
+          "article": 14,
+          "clause": "2",
+          "page": 8
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 5,
+      "pred_idx": 5,
+      "matched": true,
+      "gold_loc": {
+        "article": 15,
+        "clauses": [
+          "2"
+        ],
+        "page": 9
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "공급사(을)의 일방적 정책 변경 및 묵시적 동의 (의미 변형)",
+        "loc": {
+          "article": 15,
+          "clause": 2,
+          "page": 9
+        }
+      },
+      "pred_loc": {
+        "article": 15,
+        "clauses": [
+          "2"
+        ],
+        "page": 9
+      },
+      "pred_item": {
+        "type": "무제한 운영 가이드라인 변경 및 묵시적 동의",
+        "severity": "medium",
+        "loc": {
+          "article": 15,
+          "clause": "2",
+          "page": 9
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 6,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 15,
+        "clauses": [
+          "3"
+        ],
+        "page": 9
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "고객(갑)의 광범위한 면책 의무",
+        "loc": {
+          "article": 15,
+          "clause": 3,
+          "page": 9
+        }
+      }
+    },
+    {
+      "gold_idx": 7,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 16,
+        "clauses": [
+          "2"
+        ],
+        "page": 11
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "강제적 해외 중재 (싱가포르)",
+        "loc": {
+          "article": 16,
+          "clause": 2,
+          "page": 11
+        }
+      }
+    },
+    {
+      "gold_idx": 8,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 16,
+        "clauses": [
+          "3"
+        ],
+        "page": 11
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "관할 법원 혼선 (참조 교란)",
+        "loc": {
+          "article": 16,
+          "clause": 3,
+          "page": 11
+        }
+      }
+    },
+    {
+      "gold_idx": 9,
+      "pred_idx": 0,
+      "matched": true,
+      "gold_loc": {
+        "article": 16,
+        "clauses": [
+          "4"
+        ],
+        "page": 11
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "집단 소송 금지",
+        "loc": {
+          "article": 16,
+          "clause": 4,
+          "page": 11
+        }
+      },
+      "pred_loc": {
+        "article": 16,
+        "clauses": [
+          "4",
+          "5"
+        ],
+        "page": 10
+      },
+      "pred_item": {
+        "type": "집단소송 금지 + 청구기간 1년 제한",
+        "severity": "high",
+        "loc": {
+          "article": 16,
+          "clause": "4, 5",
+          "page": 10
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 10,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 16,
+        "clauses": [
+          "5"
+        ],
+        "page": 11
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "1년 단기 청구 기한 제한",
+        "loc": {
+          "article": 16,
+          "clause": 5,
+          "page": 11
+        }
+      }
+    },
+    {
+      "gold_idx": 11,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 2,
+        "clauses": [
+          "1",
+          "2"
+        ],
+        "page": 15
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "데이터 국외 이전 포괄적 동의 (부칙 이동)",
+        "loc": {
+          "article": "부칙 2조",
+          "clause": "1, 2",
+          "page": 15
+        }
+      }
+    }
+  ]
+}

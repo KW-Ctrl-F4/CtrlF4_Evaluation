@@ -1,0 +1,913 @@
+{
+  "gold_locs": [
+    {
+      "article": 10,
+      "clauses": [
+        "3"
+      ],
+      "page": 4
+    },
+    {
+      "article": 12,
+      "clauses": [
+        "4"
+      ],
+      "page": 5
+    },
+    {
+      "article": 19,
+      "clauses": [
+        "3"
+      ],
+      "page": 6
+    },
+    {
+      "article": 25,
+      "clauses": [
+        "1",
+        "3"
+      ],
+      "page": 8
+    },
+    {
+      "article": 34,
+      "clauses": [],
+      "page": 10
+    },
+    {
+      "article": 38,
+      "clauses": [],
+      "page": 11
+    },
+    {
+      "article": 41,
+      "clauses": [
+        "1"
+      ],
+      "page": 12
+    },
+    {
+      "article": 42,
+      "clauses": [],
+      "page": 12
+    },
+    {
+      "article": 43,
+      "clauses": [],
+      "page": 12
+    },
+    {
+      "article": 45,
+      "clauses": [
+        "3"
+      ],
+      "page": 13
+    },
+    {
+      "article": 46,
+      "clauses": [
+        "3"
+      ],
+      "page": 13
+    },
+    {
+      "article": 48,
+      "clauses": [
+        "3"
+      ],
+      "page": 14
+    },
+    {
+      "article": 49,
+      "clauses": [
+        "3"
+      ],
+      "page": 14
+    }
+  ],
+  "our_locs": [
+    {
+      "article": 45,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 11,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 39,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 25,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 42,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 44,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 19,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 37,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 10,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 26,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 22,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 49,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 9,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 15,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 50,
+      "clauses": [],
+      "page": null
+    }
+  ],
+  "llm_locs": [
+    {
+      "article": 42,
+      "clauses": [],
+      "page": 14
+    },
+    {
+      "article": 43,
+      "clauses": [],
+      "page": 14
+    },
+    {
+      "article": 45,
+      "clauses": [
+        "3"
+      ],
+      "page": 15
+    },
+    {
+      "article": 46,
+      "clauses": [
+        "3"
+      ],
+      "page": 15
+    },
+    {
+      "article": 34,
+      "clauses": [],
+      "page": 12
+    },
+    {
+      "article": 26,
+      "clauses": [],
+      "page": 9
+    },
+    {
+      "article": 25,
+      "clauses": [
+        "3"
+      ],
+      "page": 9
+    },
+    {
+      "article": 25,
+      "clauses": [
+        "1"
+      ],
+      "page": 9
+    }
+  ],
+  "our": [
+    {
+      "gold_idx": 0,
+      "pred_idx": 8,
+      "matched": true,
+      "gold_loc": {
+        "article": 10,
+        "clauses": [
+          "3"
+        ],
+        "page": 4
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "데이터 백업 책임 고객(갑) 전가",
+        "loc": {
+          "article": 10,
+          "clause": 3,
+          "page": 4
+        }
+      },
+      "pred_loc": {
+        "article": 10,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "책임상한·간접손해·면책",
+        "severity": "medium",
+        "loc": null,
+        "anchor_title": "제 10 조 (\"고객 데이터\"에 대한 \"갑\"의 책임)"
+      }
+    },
+    {
+      "gold_idx": 1,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 12,
+        "clauses": [
+          "4"
+        ],
+        "page": 5
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "요금 30일 연체 시 서비스 중단/해지",
+        "loc": {
+          "article": 12,
+          "clause": 4,
+          "page": 5
+        }
+      }
+    },
+    {
+      "gold_idx": 2,
+      "pred_idx": 6,
+      "matched": true,
+      "gold_loc": {
+        "article": 19,
+        "clauses": [
+          "3"
+        ],
+        "page": 6
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "SLA 위반 시 구제수단 '서비스 크레딧' 한정",
+        "loc": {
+          "article": 19,
+          "clause": 3,
+          "page": 6
+        }
+      },
+      "pred_loc": {
+        "article": 19,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "책임상한·간접손해·면책",
+        "severity": "medium",
+        "loc": null,
+        "anchor_title": "제 19 조 (서비스 크레딧)"
+      }
+    },
+    {
+      "gold_idx": 3,
+      "pred_idx": 3,
+      "matched": true,
+      "gold_loc": {
+        "article": 25,
+        "clauses": [
+          "1",
+          "3"
+        ],
+        "page": 8
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "고객 데이터의 포괄적 이용 및 2차 데이터 소유권",
+        "loc": {
+          "article": 25,
+          "clause": "1, 3",
+          "page": 8
+        }
+      },
+      "pred_loc": {
+        "article": 25,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "개인정보·정보보호·데이터 이용",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제 25 조 (\"을\"의 \"고객 데이터\" 이용 권한)"
+      }
+    },
+    {
+      "gold_idx": 4,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 34,
+        "clauses": [],
+        "page": 10
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "고객 데이터의 국외 이전",
+        "loc": {
+          "article": 34,
+          "clause": null,
+          "page": 10
+        }
+      }
+    },
+    {
+      "gold_idx": 5,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 38,
+        "clauses": [],
+        "page": 11
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "광범위한 보증 부인 (AS IS)",
+        "loc": {
+          "article": 38,
+          "clause": null,
+          "page": 11
+        }
+      }
+    },
+    {
+      "gold_idx": 6,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 41,
+        "clauses": [
+          "1"
+        ],
+        "page": 12
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "고객(갑)의 광범위한 면책 의무",
+        "loc": {
+          "article": 41,
+          "clause": 1,
+          "page": 12
+        }
+      }
+    },
+    {
+      "gold_idx": 7,
+      "pred_idx": 4,
+      "matched": true,
+      "gold_loc": {
+        "article": 42,
+        "clauses": [],
+        "page": 12
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "간접/결과적 손해 배상 배제",
+        "loc": {
+          "article": 42,
+          "clause": null,
+          "page": 12
+        }
+      },
+      "pred_loc": {
+        "article": 42,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "책임상한·간접손해·면책",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제 42 조 (간접 손해 및 결과적 손해의 배제)"
+      }
+    },
+    {
+      "gold_idx": 8,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 43,
+        "clauses": [],
+        "page": 12
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "배상 책임 12개월 요금 한도",
+        "loc": {
+          "article": 43,
+          "clause": null,
+          "page": 12
+        }
+      }
+    },
+    {
+      "gold_idx": 9,
+      "pred_idx": 0,
+      "matched": true,
+      "gold_loc": {
+        "article": 45,
+        "clauses": [
+          "3"
+        ],
+        "page": 13
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "자동 갱신 (90일 전 통지)",
+        "loc": {
+          "article": 45,
+          "clause": 3,
+          "page": 13
+        }
+      },
+      "pred_loc": {
+        "article": 45,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "요금·환불·자동결제",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제 45 조 (계약 기간)"
+      }
+    },
+    {
+      "gold_idx": 10,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 46,
+        "clauses": [
+          "3"
+        ],
+        "page": 13
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "고객(갑)의 중도 해지 시 환불 불가 및 잔여요금 지급 의무",
+        "loc": {
+          "article": 46,
+          "clause": 3,
+          "page": 13
+        }
+      }
+    },
+    {
+      "gold_idx": 11,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 48,
+        "clauses": [
+          "3"
+        ],
+        "page": 14
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "계약 종료 후 30일 내 데이터 삭제",
+        "loc": {
+          "article": 48,
+          "clause": 3,
+          "page": 14
+        }
+      }
+    },
+    {
+      "gold_idx": 12,
+      "pred_idx": 11,
+      "matched": true,
+      "gold_loc": {
+        "article": 49,
+        "clauses": [
+          "3"
+        ],
+        "page": 14
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "전속 관할 법원 (서울중앙지방법원)",
+        "loc": {
+          "article": 49,
+          "clause": 3,
+          "page": 14
+        }
+      },
+      "pred_loc": {
+        "article": 49,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "해지·분쟁·소송제한",
+        "severity": "low",
+        "loc": null,
+        "anchor_title": "제 49 조 (준거법 및 재판관할)"
+      }
+    }
+  ],
+  "llm": [
+    {
+      "gold_idx": 0,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 10,
+        "clauses": [
+          "3"
+        ],
+        "page": 4
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "데이터 백업 책임 고객(갑) 전가",
+        "loc": {
+          "article": 10,
+          "clause": 3,
+          "page": 4
+        }
+      }
+    },
+    {
+      "gold_idx": 1,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 12,
+        "clauses": [
+          "4"
+        ],
+        "page": 5
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "요금 30일 연체 시 서비스 중단/해지",
+        "loc": {
+          "article": 12,
+          "clause": 4,
+          "page": 5
+        }
+      }
+    },
+    {
+      "gold_idx": 2,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 19,
+        "clauses": [
+          "3"
+        ],
+        "page": 6
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "SLA 위반 시 구제수단 '서비스 크레딧' 한정",
+        "loc": {
+          "article": 19,
+          "clause": 3,
+          "page": 6
+        }
+      }
+    },
+    {
+      "gold_idx": 3,
+      "pred_idx": 6,
+      "matched": true,
+      "gold_loc": {
+        "article": 25,
+        "clauses": [
+          "1",
+          "3"
+        ],
+        "page": 8
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "고객 데이터의 포괄적 이용 및 2차 데이터 소유권",
+        "loc": {
+          "article": 25,
+          "clause": "1, 3",
+          "page": 8
+        }
+      },
+      "pred_loc": {
+        "article": 25,
+        "clauses": [
+          "3"
+        ],
+        "page": 9
+      },
+      "pred_item": {
+        "type": "통계데이터 생성·영구적 활용 권한",
+        "severity": "medium",
+        "loc": {
+          "article": 25,
+          "clause": "3",
+          "page": 9
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 4,
+      "pred_idx": 4,
+      "matched": true,
+      "gold_loc": {
+        "article": 34,
+        "clauses": [],
+        "page": 10
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "고객 데이터의 국외 이전",
+        "loc": {
+          "article": 34,
+          "clause": null,
+          "page": 10
+        }
+      },
+      "pred_loc": {
+        "article": 34,
+        "clauses": [],
+        "page": 12
+      },
+      "pred_item": {
+        "type": "데이터 국외이전 포괄 동의(광범위)",
+        "severity": "high",
+        "loc": {
+          "article": 34,
+          "clause": "",
+          "page": 12
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 5,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 38,
+        "clauses": [],
+        "page": 11
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "광범위한 보증 부인 (AS IS)",
+        "loc": {
+          "article": 38,
+          "clause": null,
+          "page": 11
+        }
+      }
+    },
+    {
+      "gold_idx": 6,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 41,
+        "clauses": [
+          "1"
+        ],
+        "page": 12
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "고객(갑)의 광범위한 면책 의무",
+        "loc": {
+          "article": 41,
+          "clause": 1,
+          "page": 12
+        }
+      }
+    },
+    {
+      "gold_idx": 7,
+      "pred_idx": 0,
+      "matched": true,
+      "gold_loc": {
+        "article": 42,
+        "clauses": [],
+        "page": 12
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "간접/결과적 손해 배상 배제",
+        "loc": {
+          "article": 42,
+          "clause": null,
+          "page": 12
+        }
+      },
+      "pred_loc": {
+        "article": 42,
+        "clauses": [],
+        "page": 14
+      },
+      "pred_item": {
+        "type": "간접손해·특별손해·징벌적·결과적 손해 면책",
+        "severity": "high",
+        "loc": {
+          "article": 42,
+          "clause": "",
+          "page": 14
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 8,
+      "pred_idx": 1,
+      "matched": true,
+      "gold_loc": {
+        "article": 43,
+        "clauses": [],
+        "page": 12
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "배상 책임 12개월 요금 한도",
+        "loc": {
+          "article": 43,
+          "clause": null,
+          "page": 12
+        }
+      },
+      "pred_loc": {
+        "article": 43,
+        "clauses": [],
+        "page": 14
+      },
+      "pred_item": {
+        "type": "책임금액 상한(12개월치 요금 한도)",
+        "severity": "high",
+        "loc": {
+          "article": 43,
+          "clause": "",
+          "page": 14
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 9,
+      "pred_idx": 2,
+      "matched": true,
+      "gold_loc": {
+        "article": 45,
+        "clauses": [
+          "3"
+        ],
+        "page": 13
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "자동 갱신 (90일 전 통지)",
+        "loc": {
+          "article": 45,
+          "clause": 3,
+          "page": 13
+        }
+      },
+      "pred_loc": {
+        "article": 45,
+        "clauses": [
+          "3"
+        ],
+        "page": 15
+      },
+      "pred_item": {
+        "type": "환불 불가 + 자동갱신 구조",
+        "severity": "medium",
+        "loc": {
+          "article": 45,
+          "clause": "3",
+          "page": 15
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 10,
+      "pred_idx": 3,
+      "matched": true,
+      "gold_loc": {
+        "article": 46,
+        "clauses": [
+          "3"
+        ],
+        "page": 13
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "고객(갑)의 중도 해지 시 환불 불가 및 잔여요금 지급 의무",
+        "loc": {
+          "article": 46,
+          "clause": 3,
+          "page": 13
+        }
+      },
+      "pred_loc": {
+        "article": 46,
+        "clauses": [
+          "3"
+        ],
+        "page": 15
+      },
+      "pred_item": {
+        "type": "중도 해지 시 남은 기간 전체 요금 지급 + 환불 불가",
+        "severity": "medium",
+        "loc": {
+          "article": 46,
+          "clause": "3",
+          "page": 15
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 11,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 48,
+        "clauses": [
+          "3"
+        ],
+        "page": 14
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "계약 종료 후 30일 내 데이터 삭제",
+        "loc": {
+          "article": 48,
+          "clause": 3,
+          "page": 14
+        }
+      }
+    },
+    {
+      "gold_idx": 12,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 49,
+        "clauses": [
+          "3"
+        ],
+        "page": 14
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "전속 관할 법원 (서울중앙지방법원)",
+        "loc": {
+          "article": 49,
+          "clause": 3,
+          "page": 14
+        }
+      }
+    }
+  ]
+}

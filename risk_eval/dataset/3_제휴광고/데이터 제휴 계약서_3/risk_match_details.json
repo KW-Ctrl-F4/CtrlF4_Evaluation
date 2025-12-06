@@ -1,0 +1,2219 @@
+{
+  "gold_locs": [
+    {
+      "article": 1,
+      "clauses": [
+        "7"
+      ],
+      "page": 4
+    },
+    {
+      "article": 1,
+      "clauses": [
+        "8"
+      ],
+      "page": 4
+    },
+    {
+      "article": 1,
+      "clauses": [
+        "11"
+      ],
+      "page": 4
+    },
+    {
+      "article": 1,
+      "clauses": [
+        "13"
+      ],
+      "page": 5
+    },
+    {
+      "article": 1,
+      "clauses": [
+        "17"
+      ],
+      "page": 5
+    },
+    {
+      "article": 1,
+      "clauses": [
+        "20"
+      ],
+      "page": 6
+    },
+    {
+      "article": 3,
+      "clauses": [
+        "6"
+      ],
+      "page": 9
+    },
+    {
+      "article": 4,
+      "clauses": [
+        "1"
+      ],
+      "page": 9
+    },
+    {
+      "article": 5,
+      "clauses": [
+        "1"
+      ],
+      "page": 10
+    },
+    {
+      "article": 6,
+      "clauses": [
+        "1"
+      ],
+      "page": 11
+    },
+    {
+      "article": 6,
+      "clauses": [
+        "3"
+      ],
+      "page": 11
+    },
+    {
+      "article": 7,
+      "clauses": [
+        "2"
+      ],
+      "page": 12
+    },
+    {
+      "article": 8,
+      "clauses": [
+        "1"
+      ],
+      "page": 13
+    },
+    {
+      "article": 8,
+      "clauses": [
+        "4"
+      ],
+      "page": 14
+    },
+    {
+      "article": 9,
+      "clauses": [
+        "5"
+      ],
+      "page": 15
+    },
+    {
+      "article": 10,
+      "clauses": [
+        "3"
+      ],
+      "page": 17
+    },
+    {
+      "article": 10,
+      "clauses": [
+        "4"
+      ],
+      "page": 17
+    },
+    {
+      "article": 10,
+      "clauses": [
+        "5"
+      ],
+      "page": 17
+    },
+    {
+      "article": 11,
+      "clauses": [
+        "3"
+      ],
+      "page": 18
+    },
+    {
+      "article": 11,
+      "clauses": [
+        "4"
+      ],
+      "page": 18
+    },
+    {
+      "article": 11,
+      "clauses": [
+        "7"
+      ],
+      "page": 19
+    },
+    {
+      "article": 12,
+      "clauses": [
+        "7"
+      ],
+      "page": 20
+    },
+    {
+      "article": 13,
+      "clauses": [
+        "3"
+      ],
+      "page": 21
+    },
+    {
+      "article": 14,
+      "clauses": [
+        "2"
+      ],
+      "page": 22
+    },
+    {
+      "article": 14,
+      "clauses": [
+        "4"
+      ],
+      "page": 23
+    },
+    {
+      "article": 15,
+      "clauses": [
+        "1"
+      ],
+      "page": 23
+    },
+    {
+      "article": 15,
+      "clauses": [
+        "4"
+      ],
+      "page": 24
+    },
+    {
+      "article": 15,
+      "clauses": [
+        "6"
+      ],
+      "page": 24
+    },
+    {
+      "article": 16,
+      "clauses": [
+        "2"
+      ],
+      "page": 25
+    },
+    {
+      "article": 17,
+      "clauses": [
+        "2"
+      ],
+      "page": 25
+    },
+    {
+      "article": 17,
+      "clauses": [
+        "3"
+      ],
+      "page": 25
+    },
+    {
+      "article": 17,
+      "clauses": [
+        "5"
+      ],
+      "page": 25
+    },
+    {
+      "article": 18,
+      "clauses": [
+        "6"
+      ],
+      "page": 26
+    },
+    {
+      "article": 18,
+      "clauses": [
+        "7"
+      ],
+      "page": 27
+    }
+  ],
+  "our_locs": [
+    {
+      "article": 1,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 1,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 1,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 4,
+      "clauses": [
+        "3"
+      ],
+      "page": null
+    },
+    {
+      "article": 5,
+      "clauses": [
+        "1"
+      ],
+      "page": null
+    },
+    {
+      "article": 6,
+      "clauses": [
+        "3"
+      ],
+      "page": null
+    },
+    {
+      "article": 8,
+      "clauses": [
+        "4"
+      ],
+      "page": null
+    },
+    {
+      "article": 9,
+      "clauses": [
+        "5"
+      ],
+      "page": null
+    },
+    {
+      "article": 10,
+      "clauses": [
+        "3"
+      ],
+      "page": null
+    },
+    {
+      "article": 11,
+      "clauses": [
+        "7"
+      ],
+      "page": null
+    },
+    {
+      "article": 14,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 14,
+      "clauses": [
+        "2",
+        "4"
+      ],
+      "page": null
+    },
+    {
+      "article": 15,
+      "clauses": [
+        "4"
+      ],
+      "page": null
+    },
+    {
+      "article": 17,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 257,
+      "clauses": [],
+      "page": null
+    }
+  ],
+  "llm_locs": [
+    {
+      "article": 1,
+      "clauses": [
+        "7"
+      ],
+      "page": null
+    },
+    {
+      "article": 1,
+      "clauses": [
+        "8"
+      ],
+      "page": null
+    },
+    {
+      "article": 1,
+      "clauses": [
+        "13"
+      ],
+      "page": null
+    },
+    {
+      "article": 1,
+      "clauses": [
+        "20"
+      ],
+      "page": null
+    },
+    {
+      "article": 4,
+      "clauses": [
+        "1"
+      ],
+      "page": null
+    },
+    {
+      "article": 3,
+      "clauses": [
+        "6"
+      ],
+      "page": null
+    },
+    {
+      "article": 6,
+      "clauses": [
+        "3"
+      ],
+      "page": null
+    },
+    {
+      "article": 8,
+      "clauses": [
+        "1"
+      ],
+      "page": null
+    },
+    {
+      "article": 9,
+      "clauses": [
+        "5"
+      ],
+      "page": null
+    },
+    {
+      "article": 10,
+      "clauses": [
+        "3"
+      ],
+      "page": null
+    }
+  ],
+  "our": [
+    {
+      "gold_idx": 0,
+      "pred_idx": 0,
+      "matched": true,
+      "gold_loc": {
+        "article": 1,
+        "clauses": [
+          "7"
+        ],
+        "page": 4
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "광범위하고 주관적인 정의 (익명 데이터)",
+        "loc": {
+          "article": 1,
+          "clause": 7,
+          "page": 4
+        }
+      },
+      "pred_loc": {
+        "article": 1,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "기타",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제1조 제17호 (관련 법률 정의)"
+      }
+    },
+    {
+      "gold_idx": 1,
+      "pred_idx": 0,
+      "matched": true,
+      "gold_loc": {
+        "article": 1,
+        "clauses": [
+          "8"
+        ],
+        "page": 4
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "광범위한 정의 (파생 데이터)",
+        "loc": {
+          "article": 1,
+          "clause": 8,
+          "page": 4
+        }
+      },
+      "pred_loc": {
+        "article": 1,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "기타",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제1조 제17호 (관련 법률 정의)"
+      }
+    },
+    {
+      "gold_idx": 2,
+      "pred_idx": 0,
+      "matched": true,
+      "gold_loc": {
+        "article": 1,
+        "clauses": [
+          "11"
+        ],
+        "page": 4
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "광범위하고 주관적인 정의 (제휴 목적)",
+        "loc": {
+          "article": 1,
+          "clause": 11,
+          "page": 4
+        }
+      },
+      "pred_loc": {
+        "article": 1,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "기타",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제1조 제17호 (관련 법률 정의)"
+      }
+    },
+    {
+      "gold_idx": 3,
+      "pred_idx": 0,
+      "matched": true,
+      "gold_loc": {
+        "article": 1,
+        "clauses": [
+          "13"
+        ],
+        "page": 5
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "갑의 일방적 변경권 (보안 표준)",
+        "loc": {
+          "article": 1,
+          "clause": 13,
+          "page": 5
+        }
+      },
+      "pred_loc": {
+        "article": 1,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "기타",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제1조 제17호 (관련 법률 정의)"
+      }
+    },
+    {
+      "gold_idx": 4,
+      "pred_idx": 0,
+      "matched": true,
+      "gold_loc": {
+        "article": 1,
+        "clauses": [
+          "17"
+        ],
+        "page": 5
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "광범위한 정의 (관련 법률)",
+        "loc": {
+          "article": 1,
+          "clause": 17,
+          "page": 5
+        }
+      },
+      "pred_loc": {
+        "article": 1,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "기타",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제1조 제17호 (관련 법률 정의)"
+      }
+    },
+    {
+      "gold_idx": 5,
+      "pred_idx": 0,
+      "matched": true,
+      "gold_loc": {
+        "article": 1,
+        "clauses": [
+          "20"
+        ],
+        "page": 6
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "묵시적 승인 배제 및 사유 없는 승인 거부권",
+        "loc": {
+          "article": 1,
+          "clause": 20,
+          "page": 6
+        }
+      },
+      "pred_loc": {
+        "article": 1,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "기타",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제1조 제17호 (관련 법률 정의)"
+      }
+    },
+    {
+      "gold_idx": 6,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 3,
+        "clauses": [
+          "6"
+        ],
+        "page": 9
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "갑의 일방적 데이터 변경 승인 거부권",
+        "loc": {
+          "article": 3,
+          "clause": 6,
+          "page": 9
+        }
+      }
+    },
+    {
+      "gold_idx": 7,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 4,
+        "clauses": [
+          "1"
+        ],
+        "page": 9
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "광범위한 영구 라이선스 부여 (계약 종료 후에도 존속)",
+        "loc": {
+          "article": 4,
+          "clause": 1,
+          "page": 9
+        }
+      }
+    },
+    {
+      "gold_idx": 8,
+      "pred_idx": 4,
+      "matched": true,
+      "gold_loc": {
+        "article": 5,
+        "clauses": [
+          "1"
+        ],
+        "page": 10
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "경쟁 금지 의무의 불공정한 예외",
+        "loc": {
+          "article": 5,
+          "clause": 1,
+          "subclause": 4,
+          "page": 10
+        }
+      },
+      "pred_loc": {
+        "article": 5,
+        "clauses": [
+          "1"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "기타",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제5조 제1항 제4호 (경쟁 금지)"
+      }
+    },
+    {
+      "gold_idx": 9,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 6,
+        "clauses": [
+          "1"
+        ],
+        "page": 11
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "'을'의 일방적/완벽한 품질 보증 의무",
+        "loc": {
+          "article": 6,
+          "clause": 1,
+          "page": 11
+        }
+      }
+    },
+    {
+      "gold_idx": 10,
+      "pred_idx": 5,
+      "matched": true,
+      "gold_loc": {
+        "article": 6,
+        "clauses": [
+          "3"
+        ],
+        "page": 11
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "갑의 일방적 품질 판단 및 대가 감액권",
+        "loc": {
+          "article": 6,
+          "clause": 3,
+          "page": 11
+        }
+      },
+      "pred_loc": {
+        "article": 6,
+        "clauses": [
+          "3"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "요금·환불·자동결제",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제6조 제3항 (품질 미달 시 조치)"
+      }
+    },
+    {
+      "gold_idx": 11,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 7,
+        "clauses": [
+          "2"
+        ],
+        "page": 12
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "갑의 일방적 변경권 (보안 표준, 을 비용 부담)",
+        "loc": {
+          "article": 7,
+          "clause": 2,
+          "page": 12
+        }
+      }
+    },
+    {
+      "gold_idx": 12,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 8,
+        "clauses": [
+          "1"
+        ],
+        "page": 13
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "갑의 광범위한 감사 권한 (계약 종료 후 1년)",
+        "loc": {
+          "article": 8,
+          "clause": 1,
+          "page": 13
+        }
+      }
+    },
+    {
+      "gold_idx": 13,
+      "pred_idx": 6,
+      "matched": true,
+      "gold_loc": {
+        "article": 8,
+        "clauses": [
+          "4"
+        ],
+        "page": 14
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "감사 비용 '을'에게 전가",
+        "loc": {
+          "article": 8,
+          "clause": 4,
+          "page": 14
+        }
+      },
+      "pred_loc": {
+        "article": 8,
+        "clauses": [
+          "4"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "기타",
+        "severity": "medium",
+        "loc": null,
+        "anchor_title": "제8조 제4항 (감사 비용)"
+      }
+    },
+    {
+      "gold_idx": 14,
+      "pred_idx": 7,
+      "matched": true,
+      "gold_loc": {
+        "article": 9,
+        "clauses": [
+          "5"
+        ],
+        "page": 15
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "개인정보 국외 이전 포괄 동의 확보 의무",
+        "loc": {
+          "article": 9,
+          "clause": 5,
+          "page": 15
+        }
+      },
+      "pred_loc": {
+        "article": 9,
+        "clauses": [
+          "5"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "개인정보·정보보호·데이터 이용",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제9조 제5항 (데이터 국외 이전 포괄 동의)"
+      }
+    },
+    {
+      "gold_idx": 15,
+      "pred_idx": 8,
+      "matched": true,
+      "gold_loc": {
+        "article": 10,
+        "clauses": [
+          "3"
+        ],
+        "page": 17
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "포괄적 지식재산권 양도 (파생 데이터, 창작 시 즉시, 대가 무관)",
+        "loc": {
+          "article": 10,
+          "clause": 3,
+          "page": 17
+        }
+      },
+      "pred_loc": {
+        "article": 10,
+        "clauses": [
+          "3"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "지식재산·개선결과물·저작인격권",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제10조 제3항 (파생 데이터 권리 귀속)"
+      }
+    },
+    {
+      "gold_idx": 16,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 10,
+        "clauses": [
+          "4"
+        ],
+        "page": 17
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "파생 저작물 무제한/무상 이용권 (상업적 판매 포함)",
+        "loc": {
+          "article": 10,
+          "clause": 4,
+          "page": 17
+        }
+      }
+    },
+    {
+      "gold_idx": 17,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 10,
+        "clauses": [
+          "5"
+        ],
+        "page": 17
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "포괄적/취소 불가능한 저작인격권 불행사 동의",
+        "loc": {
+          "article": 10,
+          "clause": 5,
+          "page": 17
+        }
+      }
+    },
+    {
+      "gold_idx": 18,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 11,
+        "clauses": [
+          "3"
+        ],
+        "page": 18
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "과도한 대금 지급 지연 (60 영업일)",
+        "loc": {
+          "article": 11,
+          "clause": 3,
+          "page": 18
+        }
+      }
+    },
+    {
+      "gold_idx": 19,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 11,
+        "clauses": [
+          "4"
+        ],
+        "page": 18
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "갑의 일방적 대가 감액권 (주관적 판단)",
+        "loc": {
+          "article": 11,
+          "clause": 4,
+          "page": 18
+        }
+      }
+    },
+    {
+      "gold_idx": 20,
+      "pred_idx": 9,
+      "matched": true,
+      "gold_loc": {
+        "article": 11,
+        "clauses": [
+          "7"
+        ],
+        "page": 19
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "과도한 위약벌 및 기지급 대금 반환",
+        "loc": {
+          "article": 11,
+          "clause": 7,
+          "page": 19
+        }
+      },
+      "pred_loc": {
+        "article": 11,
+        "clauses": [
+          "7"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "요금·환불·자동결제",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제11조 제7항 (환불 및 위약벌)"
+      }
+    },
+    {
+      "gold_idx": 21,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 12,
+        "clauses": [
+          "7"
+        ],
+        "page": 20
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "영구적 비밀유지 의무",
+        "loc": {
+          "article": 12,
+          "clause": 7,
+          "page": 20
+        }
+      }
+    },
+    {
+      "gold_idx": 22,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 13,
+        "clauses": [
+          "3"
+        ],
+        "page": 21
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "'을'의 과도하고 주관적인 진술 및 보증 의무",
+        "loc": {
+          "article": 13,
+          "clause": 3,
+          "page": 21
+        }
+      }
+    },
+    {
+      "gold_idx": 23,
+      "pred_idx": 10,
+      "matched": true,
+      "gold_loc": {
+        "article": 14,
+        "clauses": [
+          "2"
+        ],
+        "page": 22
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "'갑'의 간접/특별손해 면책 및 배상 상한 극도 제한",
+        "loc": {
+          "article": 14,
+          "clause": 2,
+          "page": 22
+        }
+      },
+      "pred_loc": {
+        "article": 14,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "책임상한·간접손해·면책",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제14조 제2항 (갑의 책임 제한)"
+      }
+    },
+    {
+      "gold_idx": 24,
+      "pred_idx": 11,
+      "matched": true,
+      "gold_loc": {
+        "article": 14,
+        "clauses": [
+          "4"
+        ],
+        "page": 23
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "'을'의 무제한 손해배상 책임 (간접손해 포함, 상한 배제)",
+        "loc": {
+          "article": 14,
+          "clause": 4,
+          "page": 23
+        }
+      },
+      "pred_loc": {
+        "article": 14,
+        "clauses": [
+          "2",
+          "4"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "책임상한·간접손해·면책",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제14조 제4항 (을의 배상 책임 한도 배제)"
+      }
+    },
+    {
+      "gold_idx": 25,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 15,
+        "clauses": [
+          "1"
+        ],
+        "page": 23
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "자동 갱신 조항",
+        "loc": {
+          "article": 15,
+          "clause": 1,
+          "page": 23
+        }
+      }
+    },
+    {
+      "gold_idx": 26,
+      "pred_idx": 12,
+      "matched": true,
+      "gold_loc": {
+        "article": 15,
+        "clauses": [
+          "4"
+        ],
+        "page": 24
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "갑의 일방적 임의 해지권 (Termination for Convenience)",
+        "loc": {
+          "article": 15,
+          "clause": 4,
+          "page": 24
+        }
+      },
+      "pred_loc": {
+        "article": 15,
+        "clauses": [
+          "4"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "해지·분쟁·소송제한",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제15조 제4항 (갑의 임의 해지권)"
+      }
+    },
+    {
+      "gold_idx": 27,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 15,
+        "clauses": [
+          "6"
+        ],
+        "page": 24
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "계약 종료 후에도 '갑'의 영구적 데이터 보유/이용권",
+        "loc": {
+          "article": 15,
+          "clause": 6,
+          "subclause": 5,
+          "page": 24
+        }
+      }
+    },
+    {
+      "gold_idx": 28,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 16,
+        "clauses": [
+          "2"
+        ],
+        "page": 25
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "갑의 일방적 계약 변경권 (주관적 사유)",
+        "loc": {
+          "article": 16,
+          "clause": 2,
+          "page": 25
+        }
+      }
+    },
+    {
+      "gold_idx": 29,
+      "pred_idx": 13,
+      "matched": true,
+      "gold_loc": {
+        "article": 17,
+        "clauses": [
+          "2"
+        ],
+        "page": 25
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "'을'의 청구 기간 6개월 제한",
+        "loc": {
+          "article": 17,
+          "clause": 2,
+          "page": 25
+        }
+      },
+      "pred_loc": {
+        "article": 17,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "해지·분쟁·소송제한",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제17조 제2항 (청구 기간의 제한)"
+      }
+    },
+    {
+      "gold_idx": 30,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 17,
+        "clauses": [
+          "3"
+        ],
+        "page": 25
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "집단 소송 금지/포기",
+        "loc": {
+          "article": 17,
+          "clause": 3,
+          "page": 25
+        }
+      }
+    },
+    {
+      "gold_idx": 31,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 17,
+        "clauses": [
+          "5"
+        ],
+        "page": 25
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "일방적으로 유리한 전속 관할 법원",
+        "loc": {
+          "article": 17,
+          "clause": 5,
+          "page": 25
+        }
+      }
+    },
+    {
+      "gold_idx": 32,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 18,
+        "clauses": [
+          "6"
+        ],
+        "page": 26
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "갑의 일방적 계약 양도권",
+        "loc": {
+          "article": 18,
+          "clause": 6,
+          "subclause": 2,
+          "page": 26
+        }
+      }
+    },
+    {
+      "gold_idx": 33,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 18,
+        "clauses": [
+          "7"
+        ],
+        "page": 27
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "참조 교란 (불필요한 조항 연계)",
+        "loc": {
+          "article": 18,
+          "clause": 7,
+          "page": 27
+        }
+      }
+    }
+  ],
+  "llm": [
+    {
+      "gold_idx": 0,
+      "pred_idx": 0,
+      "matched": true,
+      "gold_loc": {
+        "article": 1,
+        "clauses": [
+          "7"
+        ],
+        "page": 4
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "광범위하고 주관적인 정의 (익명 데이터)",
+        "loc": {
+          "article": 1,
+          "clause": 7,
+          "page": 4
+        }
+      },
+      "pred_loc": {
+        "article": 1,
+        "clauses": [
+          "7"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "익명·가명 데이터 판단 권한을 갑에게 일방적으로 부여",
+        "severity": "high",
+        "loc": {
+          "article": 1,
+          "clause": "7",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 1,
+      "pred_idx": 1,
+      "matched": true,
+      "gold_loc": {
+        "article": 1,
+        "clauses": [
+          "8"
+        ],
+        "page": 4
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "광범위한 정의 (파생 데이터)",
+        "loc": {
+          "article": 1,
+          "clause": 8,
+          "page": 4
+        }
+      },
+      "pred_loc": {
+        "article": 1,
+        "clauses": [
+          "8"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "파생 데이터에 대한 갑의 과도한 권리 귀속",
+        "severity": "high",
+        "loc": {
+          "article": 1,
+          "clause": "8",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 2,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 1,
+        "clauses": [
+          "11"
+        ],
+        "page": 4
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "광범위하고 주관적인 정의 (제휴 목적)",
+        "loc": {
+          "article": 1,
+          "clause": 11,
+          "page": 4
+        }
+      }
+    },
+    {
+      "gold_idx": 3,
+      "pred_idx": 2,
+      "matched": true,
+      "gold_loc": {
+        "article": 1,
+        "clauses": [
+          "13"
+        ],
+        "page": 5
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "갑의 일방적 변경권 (보안 표준)",
+        "loc": {
+          "article": 1,
+          "clause": 13,
+          "page": 5
+        }
+      },
+      "pred_loc": {
+        "article": 1,
+        "clauses": [
+          "13"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "보안 표준을 갑이 일방적으로 강화 가능",
+        "severity": "high",
+        "loc": {
+          "article": 1,
+          "clause": "13",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 4,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 1,
+        "clauses": [
+          "17"
+        ],
+        "page": 5
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "광범위한 정의 (관련 법률)",
+        "loc": {
+          "article": 1,
+          "clause": 17,
+          "page": 5
+        }
+      }
+    },
+    {
+      "gold_idx": 5,
+      "pred_idx": 3,
+      "matched": true,
+      "gold_loc": {
+        "article": 1,
+        "clauses": [
+          "20"
+        ],
+        "page": 6
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "묵시적 승인 배제 및 사유 없는 승인 거부권",
+        "loc": {
+          "article": 1,
+          "clause": 20,
+          "page": 6
+        }
+      },
+      "pred_loc": {
+        "article": 1,
+        "clauses": [
+          "20"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "승인·동의에 대한 갑의 절대적 재량",
+        "severity": "high",
+        "loc": {
+          "article": 1,
+          "clause": "20",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 6,
+      "pred_idx": 5,
+      "matched": true,
+      "gold_loc": {
+        "article": 3,
+        "clauses": [
+          "6"
+        ],
+        "page": 9
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "갑의 일방적 데이터 변경 승인 거부권",
+        "loc": {
+          "article": 3,
+          "clause": 6,
+          "page": 9
+        }
+      },
+      "pred_loc": {
+        "article": 3,
+        "clauses": [
+          "6"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "데이터 스키마 변경 시 갑의 사전 서면 승인 필요",
+        "severity": "medium",
+        "loc": {
+          "article": 3,
+          "clause": "6",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 7,
+      "pred_idx": 4,
+      "matched": true,
+      "gold_loc": {
+        "article": 4,
+        "clauses": [
+          "1"
+        ],
+        "page": 9
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "광범위한 영구 라이선스 부여 (계약 종료 후에도 존속)",
+        "loc": {
+          "article": 4,
+          "clause": 1,
+          "page": 9
+        }
+      },
+      "pred_loc": {
+        "article": 4,
+        "clauses": [
+          "1"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "라이선스의 영구성·재라이선스·양도 가능 등 과도한 권리 부여",
+        "severity": "high",
+        "loc": {
+          "article": 4,
+          "clause": "1",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 8,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 5,
+        "clauses": [
+          "1"
+        ],
+        "page": 10
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "경쟁 금지 의무의 불공정한 예외",
+        "loc": {
+          "article": 5,
+          "clause": 1,
+          "subclause": 4,
+          "page": 10
+        }
+      }
+    },
+    {
+      "gold_idx": 9,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 6,
+        "clauses": [
+          "1"
+        ],
+        "page": 11
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "'을'의 일방적/완벽한 품질 보증 의무",
+        "loc": {
+          "article": 6,
+          "clause": 1,
+          "page": 11
+        }
+      }
+    },
+    {
+      "gold_idx": 10,
+      "pred_idx": 6,
+      "matched": true,
+      "gold_loc": {
+        "article": 6,
+        "clauses": [
+          "3"
+        ],
+        "page": 11
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "갑의 일방적 품질 판단 및 대가 감액권",
+        "loc": {
+          "article": 6,
+          "clause": 3,
+          "page": 11
+        }
+      },
+      "pred_loc": {
+        "article": 6,
+        "clauses": [
+          "3"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "갑의 품질 기준 미달 판단을 단독 재량으로 인정",
+        "severity": "high",
+        "loc": {
+          "article": 6,
+          "clause": "3",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 11,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 7,
+        "clauses": [
+          "2"
+        ],
+        "page": 12
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "갑의 일방적 변경권 (보안 표준, 을 비용 부담)",
+        "loc": {
+          "article": 7,
+          "clause": 2,
+          "page": 12
+        }
+      }
+    },
+    {
+      "gold_idx": 12,
+      "pred_idx": 7,
+      "matched": true,
+      "gold_loc": {
+        "article": 8,
+        "clauses": [
+          "1"
+        ],
+        "page": 13
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "갑의 광범위한 감사 권한 (계약 종료 후 1년)",
+        "loc": {
+          "article": 8,
+          "clause": 1,
+          "page": 13
+        }
+      },
+      "pred_loc": {
+        "article": 8,
+        "clauses": [
+          "1"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "감사 권한을 계약 종료 후 1년까지 부여",
+        "severity": "medium",
+        "loc": {
+          "article": 8,
+          "clause": "1",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 13,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 8,
+        "clauses": [
+          "4"
+        ],
+        "page": 14
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "감사 비용 '을'에게 전가",
+        "loc": {
+          "article": 8,
+          "clause": 4,
+          "page": 14
+        }
+      }
+    },
+    {
+      "gold_idx": 14,
+      "pred_idx": 8,
+      "matched": true,
+      "gold_loc": {
+        "article": 9,
+        "clauses": [
+          "5"
+        ],
+        "page": 15
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "개인정보 국외 이전 포괄 동의 확보 의무",
+        "loc": {
+          "article": 9,
+          "clause": 5,
+          "page": 15
+        }
+      },
+      "pred_loc": {
+        "article": 9,
+        "clauses": [
+          "5"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "개인정보 국외 이전에 대한 포괄적·백지 동의 요구",
+        "severity": "high",
+        "loc": {
+          "article": 9,
+          "clause": "5",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 15,
+      "pred_idx": 9,
+      "matched": true,
+      "gold_loc": {
+        "article": 10,
+        "clauses": [
+          "3"
+        ],
+        "page": 17
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "포괄적 지식재산권 양도 (파생 데이터, 창작 시 즉시, 대가 무관)",
+        "loc": {
+          "article": 10,
+          "clause": 3,
+          "page": 17
+        }
+      },
+      "pred_loc": {
+        "article": 10,
+        "clauses": [
+          "3"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "파생 데이터·분석 결과물 모든 IP를 갑에 창작 즉시 영구 귀속",
+        "severity": "high",
+        "loc": {
+          "article": 10,
+          "clause": "3",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 16,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 10,
+        "clauses": [
+          "4"
+        ],
+        "page": 17
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "파생 저작물 무제한/무상 이용권 (상업적 판매 포함)",
+        "loc": {
+          "article": 10,
+          "clause": 4,
+          "page": 17
+        }
+      }
+    },
+    {
+      "gold_idx": 17,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 10,
+        "clauses": [
+          "5"
+        ],
+        "page": 17
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "포괄적/취소 불가능한 저작인격권 불행사 동의",
+        "loc": {
+          "article": 10,
+          "clause": 5,
+          "page": 17
+        }
+      }
+    },
+    {
+      "gold_idx": 18,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 11,
+        "clauses": [
+          "3"
+        ],
+        "page": 18
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "과도한 대금 지급 지연 (60 영업일)",
+        "loc": {
+          "article": 11,
+          "clause": 3,
+          "page": 18
+        }
+      }
+    },
+    {
+      "gold_idx": 19,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 11,
+        "clauses": [
+          "4"
+        ],
+        "page": 18
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "갑의 일방적 대가 감액권 (주관적 판단)",
+        "loc": {
+          "article": 11,
+          "clause": 4,
+          "page": 18
+        }
+      }
+    },
+    {
+      "gold_idx": 20,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 11,
+        "clauses": [
+          "7"
+        ],
+        "page": 19
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "과도한 위약벌 및 기지급 대금 반환",
+        "loc": {
+          "article": 11,
+          "clause": 7,
+          "page": 19
+        }
+      }
+    },
+    {
+      "gold_idx": 21,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 12,
+        "clauses": [
+          "7"
+        ],
+        "page": 20
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "영구적 비밀유지 의무",
+        "loc": {
+          "article": 12,
+          "clause": 7,
+          "page": 20
+        }
+      }
+    },
+    {
+      "gold_idx": 22,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 13,
+        "clauses": [
+          "3"
+        ],
+        "page": 21
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "'을'의 과도하고 주관적인 진술 및 보증 의무",
+        "loc": {
+          "article": 13,
+          "clause": 3,
+          "page": 21
+        }
+      }
+    },
+    {
+      "gold_idx": 23,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 14,
+        "clauses": [
+          "2"
+        ],
+        "page": 22
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "'갑'의 간접/특별손해 면책 및 배상 상한 극도 제한",
+        "loc": {
+          "article": 14,
+          "clause": 2,
+          "page": 22
+        }
+      }
+    },
+    {
+      "gold_idx": 24,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 14,
+        "clauses": [
+          "4"
+        ],
+        "page": 23
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "'을'의 무제한 손해배상 책임 (간접손해 포함, 상한 배제)",
+        "loc": {
+          "article": 14,
+          "clause": 4,
+          "page": 23
+        }
+      }
+    },
+    {
+      "gold_idx": 25,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 15,
+        "clauses": [
+          "1"
+        ],
+        "page": 23
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "자동 갱신 조항",
+        "loc": {
+          "article": 15,
+          "clause": 1,
+          "page": 23
+        }
+      }
+    },
+    {
+      "gold_idx": 26,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 15,
+        "clauses": [
+          "4"
+        ],
+        "page": 24
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "갑의 일방적 임의 해지권 (Termination for Convenience)",
+        "loc": {
+          "article": 15,
+          "clause": 4,
+          "page": 24
+        }
+      }
+    },
+    {
+      "gold_idx": 27,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 15,
+        "clauses": [
+          "6"
+        ],
+        "page": 24
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "계약 종료 후에도 '갑'의 영구적 데이터 보유/이용권",
+        "loc": {
+          "article": 15,
+          "clause": 6,
+          "subclause": 5,
+          "page": 24
+        }
+      }
+    },
+    {
+      "gold_idx": 28,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 16,
+        "clauses": [
+          "2"
+        ],
+        "page": 25
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "갑의 일방적 계약 변경권 (주관적 사유)",
+        "loc": {
+          "article": 16,
+          "clause": 2,
+          "page": 25
+        }
+      }
+    },
+    {
+      "gold_idx": 29,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 17,
+        "clauses": [
+          "2"
+        ],
+        "page": 25
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "'을'의 청구 기간 6개월 제한",
+        "loc": {
+          "article": 17,
+          "clause": 2,
+          "page": 25
+        }
+      }
+    },
+    {
+      "gold_idx": 30,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 17,
+        "clauses": [
+          "3"
+        ],
+        "page": 25
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "집단 소송 금지/포기",
+        "loc": {
+          "article": 17,
+          "clause": 3,
+          "page": 25
+        }
+      }
+    },
+    {
+      "gold_idx": 31,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 17,
+        "clauses": [
+          "5"
+        ],
+        "page": 25
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "일방적으로 유리한 전속 관할 법원",
+        "loc": {
+          "article": 17,
+          "clause": 5,
+          "page": 25
+        }
+      }
+    },
+    {
+      "gold_idx": 32,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 18,
+        "clauses": [
+          "6"
+        ],
+        "page": 26
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "갑의 일방적 계약 양도권",
+        "loc": {
+          "article": 18,
+          "clause": 6,
+          "subclause": 2,
+          "page": 26
+        }
+      }
+    },
+    {
+      "gold_idx": 33,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 18,
+        "clauses": [
+          "7"
+        ],
+        "page": 27
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "참조 교란 (불필요한 조항 연계)",
+        "loc": {
+          "article": 18,
+          "clause": 7,
+          "page": 27
+        }
+      }
+    }
+  ]
+}

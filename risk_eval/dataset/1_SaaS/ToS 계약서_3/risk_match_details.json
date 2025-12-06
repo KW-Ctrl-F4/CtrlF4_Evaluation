@@ -1,0 +1,1363 @@
+{
+  "gold_locs": [
+    {
+      "article": 3,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 8,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 10,
+      "clauses": [
+        "3"
+      ],
+      "page": null
+    },
+    {
+      "article": 13,
+      "clauses": [
+        "1"
+      ],
+      "page": null
+    },
+    {
+      "article": 14,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 15,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 16,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 17,
+      "clauses": [
+        "3"
+      ],
+      "page": null
+    },
+    {
+      "article": 18,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 18,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 26,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 26,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 29,
+      "clauses": [
+        "1"
+      ],
+      "page": null
+    },
+    {
+      "article": 29,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 1,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 2,
+      "clauses": [
+        "1"
+      ],
+      "page": null
+    },
+    {
+      "article": 2,
+      "clauses": [
+        "1"
+      ],
+      "page": null
+    },
+    {
+      "article": 3,
+      "clauses": [
+        "1"
+      ],
+      "page": null
+    },
+    {
+      "article": 30,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 34,
+      "clauses": [
+        "3"
+      ],
+      "page": null
+    }
+  ],
+  "our_locs": [
+    {
+      "article": 18,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 26,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 14,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 12,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 8,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 29,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 2,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 13,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 16,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 22,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 6,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 27,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 3,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 17,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 30,
+      "clauses": [],
+      "page": null
+    }
+  ],
+  "llm_locs": [
+    {
+      "article": 17,
+      "clauses": [
+        "3"
+      ],
+      "page": null
+    },
+    {
+      "article": 17,
+      "clauses": [
+        "4"
+      ],
+      "page": null
+    },
+    {
+      "article": 18,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 8,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 13,
+      "clauses": [
+        "1",
+        "2",
+        "3"
+      ],
+      "page": null
+    },
+    {
+      "article": 12,
+      "clauses": [
+        "1",
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 10,
+      "clauses": [
+        "3"
+      ],
+      "page": null
+    },
+    {
+      "article": 8,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    }
+  ],
+  "our": [
+    {
+      "gold_idx": 0,
+      "pred_idx": 12,
+      "matched": true,
+      "gold_loc": {
+        "article": 3,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "약관해석_회사이익우선",
+        "loc": {
+          "article": "제3조",
+          "clause": 2
+        }
+      },
+      "pred_loc": {
+        "article": 3,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "기타",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제3 조 (약관의 명시, 효력 및 변경)"
+      }
+    },
+    {
+      "gold_idx": 1,
+      "pred_idx": 4,
+      "matched": true,
+      "gold_loc": {
+        "article": 8,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "개인정보_국외이전_포괄동의",
+        "loc": {
+          "article": "제8조",
+          "clause": 2,
+          "sub_clause": 2
+        }
+      },
+      "pred_loc": {
+        "article": 8,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "개인정보·정보보호·데이터 이용",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제8 조 (개인정보의 보호, 활용 및 국외 이전의 강화)"
+      }
+    },
+    {
+      "gold_idx": 2,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 10,
+        "clauses": [
+          "3"
+        ],
+        "page": null
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "AI결과물_책임회피",
+        "loc": {
+          "article": "제10조",
+          "clause": 3,
+          "sub_clause": 4
+        }
+      }
+    },
+    {
+      "gold_idx": 3,
+      "pred_idx": 7,
+      "matched": true,
+      "gold_loc": {
+        "article": 13,
+        "clauses": [
+          "1"
+        ],
+        "page": null
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "서비스_일방적_변경및축소",
+        "loc": {
+          "article": "제13조",
+          "clause": 1
+        }
+      },
+      "pred_loc": {
+        "article": 13,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "서비스/콘텐츠 변경·정지권",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제13 조 (서비스의 일방적 변경 및 기능 축소)"
+      }
+    },
+    {
+      "gold_idx": 4,
+      "pred_idx": 2,
+      "matched": true,
+      "gold_loc": {
+        "article": 14,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "게시물_영구적_광범위라이선스",
+        "loc": {
+          "article": "제14조",
+          "clause": 2
+        }
+      },
+      "pred_loc": {
+        "article": 14,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "지식재산·개선결과물·저작인격권",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제14 조 (게시물 및 회원 데이터의 저작권 및 광범위 이용 허락)"
+      }
+    },
+    {
+      "gold_idx": 5,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 15,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "데이터_보존의무면제_즉시삭제",
+        "loc": {
+          "article": "제15조",
+          "clause": 2
+        }
+      }
+    },
+    {
+      "gold_idx": 6,
+      "pred_idx": 8,
+      "matched": true,
+      "gold_loc": {
+        "article": 16,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "요금산정기준_일방변경",
+        "loc": {
+          "article": "제16조",
+          "clause": 2
+        }
+      },
+      "pred_loc": {
+        "article": 16,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "요금·환불·자동결제",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제16 조 (유료 서비스의 종류 및 가격 정책의 상세)"
+      }
+    },
+    {
+      "gold_idx": 7,
+      "pred_idx": 13,
+      "matched": true,
+      "gold_loc": {
+        "article": 17,
+        "clauses": [
+          "3"
+        ],
+        "page": null
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "자동결제_무조건갱신강제",
+        "loc": {
+          "article": "제17조",
+          "clause": 3
+        }
+      },
+      "pred_loc": {
+        "article": 17,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "요금·환불·자동결제",
+        "severity": "medium",
+        "loc": null,
+        "anchor_title": "제17 조 (유료 서비스의 결제 및 청구 절차)"
+      }
+    },
+    {
+      "gold_idx": 8,
+      "pred_idx": 0,
+      "matched": true,
+      "gold_loc": {
+        "article": 18,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "기간제_환불절대불가",
+        "loc": {
+          "article": "제18조",
+          "clause": 2,
+          "sub_clause": 1
+        }
+      },
+      "pred_loc": {
+        "article": 18,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "요금·환불·자동결제",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제18 조 (환불 및 중도 해지 시 처리)"
+      }
+    },
+    {
+      "gold_idx": 9,
+      "pred_idx": 0,
+      "matched": true,
+      "gold_loc": {
+        "article": 18,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "장기계약_과도한위약금",
+        "loc": {
+          "article": "제18조",
+          "clause": 2,
+          "sub_clause": 3
+        }
+      },
+      "pred_loc": {
+        "article": 18,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "요금·환불·자동결제",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제18 조 (환불 및 중도 해지 시 처리)"
+      }
+    },
+    {
+      "gold_idx": 10,
+      "pred_idx": 1,
+      "matched": true,
+      "gold_loc": {
+        "article": 26,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "간접손해_포기강제",
+        "loc": {
+          "article": "제26조",
+          "clause": 2,
+          "sub_clause": 1
+        }
+      },
+      "pred_loc": {
+        "article": 26,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "책임상한·간접손해·면책",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제26 조 (회사 손해배상의 범위 및 절대적 제한)"
+      }
+    },
+    {
+      "gold_idx": 11,
+      "pred_idx": 1,
+      "matched": true,
+      "gold_loc": {
+        "article": 26,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "책임상한_3개월요금",
+        "loc": {
+          "article": "제26조",
+          "clause": 2,
+          "sub_clause": 2
+        }
+      },
+      "pred_loc": {
+        "article": 26,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "책임상한·간접손해·면책",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제26 조 (회사 손해배상의 범위 및 절대적 제한)"
+      }
+    },
+    {
+      "gold_idx": 12,
+      "pred_idx": 5,
+      "matched": true,
+      "gold_loc": {
+        "article": 29,
+        "clauses": [
+          "1"
+        ],
+        "page": null
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "청구기간_1년제한",
+        "loc": {
+          "article": "제29조",
+          "clause": 1
+        }
+      },
+      "pred_loc": {
+        "article": 29,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "해지·분쟁·소송제한",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제29 조 (손해배상 청구 기간 및 집단소송 금지)"
+      }
+    },
+    {
+      "gold_idx": 13,
+      "pred_idx": 5,
+      "matched": true,
+      "gold_loc": {
+        "article": 29,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "집단소송_금지",
+        "loc": {
+          "article": "제29조",
+          "clause": 2
+        }
+      },
+      "pred_loc": {
+        "article": 29,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "해지·분쟁·소송제한",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제29 조 (손해배상 청구 기간 및 집단소송 금지)"
+      }
+    },
+    {
+      "gold_idx": 14,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 1,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "운영정책_약관우선및해석권전속",
+        "loc": {
+          "article": "별첨 1, 제1조",
+          "clause": 2
+        }
+      }
+    },
+    {
+      "gold_idx": 15,
+      "pred_idx": 6,
+      "matched": true,
+      "gold_loc": {
+        "article": 2,
+        "clauses": [
+          "1"
+        ],
+        "page": null
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "무료이용_SLA부인및책임면제",
+        "loc": {
+          "article": "별첨 2, 제4조",
+          "clause": 1,
+          "sub_clause": 3
+        }
+      },
+      "pred_loc": {
+        "article": 2,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "해지·분쟁·소송제한",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제2 조 (강제적 중재)"
+      }
+    },
+    {
+      "gold_idx": 16,
+      "pred_idx": 6,
+      "matched": true,
+      "gold_loc": {
+        "article": 2,
+        "clauses": [
+          "1"
+        ],
+        "page": null
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "이용패턴_포괄모니터링",
+        "loc": {
+          "article": "별첨 2, 제6조",
+          "clause": 1
+        }
+      },
+      "pred_loc": {
+        "article": 2,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "해지·분쟁·소송제한",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제2 조 (강제적 중재)"
+      }
+    },
+    {
+      "gold_idx": 17,
+      "pred_idx": 12,
+      "matched": true,
+      "gold_loc": {
+        "article": 3,
+        "clauses": [
+          "1"
+        ],
+        "page": null
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "분쟁해결_중재강제",
+        "loc": {
+          "article": "별첨 3, 제3조",
+          "clause": 1
+        }
+      },
+      "pred_loc": {
+        "article": 3,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "기타",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제3 조 (약관의 명시, 효력 및 변경)"
+      }
+    },
+    {
+      "gold_idx": 18,
+      "pred_idx": 14,
+      "matched": true,
+      "gold_loc": {
+        "article": 30,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "관할법원_일방지정",
+        "loc": {
+          "article": "제30조",
+          "clause": 2
+        }
+      },
+      "pred_loc": {
+        "article": 30,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "해지·분쟁·소송제한",
+        "severity": "medium",
+        "loc": null,
+        "anchor_title": "제30 조 (관할 법원 및 준거법)"
+      }
+    },
+    {
+      "gold_idx": 19,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 34,
+        "clauses": [
+          "3"
+        ],
+        "page": null
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "참조교란_최종확인",
+        "loc": {
+          "article": "제34조",
+          "clause": 3
+        }
+      }
+    }
+  ],
+  "llm": [
+    {
+      "gold_idx": 0,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 3,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "약관해석_회사이익우선",
+        "loc": {
+          "article": "제3조",
+          "clause": 2
+        }
+      }
+    },
+    {
+      "gold_idx": 1,
+      "pred_idx": 3,
+      "matched": true,
+      "gold_loc": {
+        "article": 8,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "개인정보_국외이전_포괄동의",
+        "loc": {
+          "article": "제8조",
+          "clause": 2,
+          "sub_clause": 2
+        }
+      },
+      "pred_loc": {
+        "article": 8,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "개인정보 국외 이전 포괄 동의",
+        "severity": "high",
+        "loc": {
+          "article": 8,
+          "clause": "2",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 2,
+      "pred_idx": 6,
+      "matched": true,
+      "gold_loc": {
+        "article": 10,
+        "clauses": [
+          "3"
+        ],
+        "page": null
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "AI결과물_책임회피",
+        "loc": {
+          "article": "제10조",
+          "clause": 3,
+          "sub_clause": 4
+        }
+      },
+      "pred_loc": {
+        "article": 10,
+        "clauses": [
+          "3"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "아이디·비밀번호 도용에 대한 전적 사용자 책임",
+        "severity": "low",
+        "loc": {
+          "article": 10,
+          "clause": "3",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 3,
+      "pred_idx": 4,
+      "matched": true,
+      "gold_loc": {
+        "article": 13,
+        "clauses": [
+          "1"
+        ],
+        "page": null
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "서비스_일방적_변경및축소",
+        "loc": {
+          "article": "제13조",
+          "clause": 1
+        }
+      },
+      "pred_loc": {
+        "article": 13,
+        "clauses": [
+          "1",
+          "2",
+          "3"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "일방적 서비스 변경·기능 축소",
+        "severity": "high",
+        "loc": {
+          "article": 13,
+          "clause": "1, 2, 3",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 4,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 14,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "게시물_영구적_광범위라이선스",
+        "loc": {
+          "article": "제14조",
+          "clause": 2
+        }
+      }
+    },
+    {
+      "gold_idx": 5,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 15,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "데이터_보존의무면제_즉시삭제",
+        "loc": {
+          "article": "제15조",
+          "clause": 2
+        }
+      }
+    },
+    {
+      "gold_idx": 6,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 16,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "요금산정기준_일방변경",
+        "loc": {
+          "article": "제16조",
+          "clause": 2
+        }
+      }
+    },
+    {
+      "gold_idx": 7,
+      "pred_idx": 0,
+      "matched": true,
+      "gold_loc": {
+        "article": 17,
+        "clauses": [
+          "3"
+        ],
+        "page": null
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "자동결제_무조건갱신강제",
+        "loc": {
+          "article": "제17조",
+          "clause": 3
+        }
+      },
+      "pred_loc": {
+        "article": 17,
+        "clauses": [
+          "3"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "자동결제 강제·중복 동의 및 무조건 갱신",
+        "severity": "high",
+        "loc": {
+          "article": 17,
+          "clause": "3",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 8,
+      "pred_idx": 2,
+      "matched": true,
+      "gold_loc": {
+        "article": 18,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "기간제_환불절대불가",
+        "loc": {
+          "article": "제18조",
+          "clause": 2,
+          "sub_clause": 1
+        }
+      },
+      "pred_loc": {
+        "article": 18,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "환불 불가 및 과도한 위약금",
+        "severity": "high",
+        "loc": {
+          "article": 18,
+          "clause": "2",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 9,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 18,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "장기계약_과도한위약금",
+        "loc": {
+          "article": "제18조",
+          "clause": 2,
+          "sub_clause": 3
+        }
+      }
+    },
+    {
+      "gold_idx": 10,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 26,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "간접손해_포기강제",
+        "loc": {
+          "article": "제26조",
+          "clause": 2,
+          "sub_clause": 1
+        }
+      }
+    },
+    {
+      "gold_idx": 11,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 26,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "책임상한_3개월요금",
+        "loc": {
+          "article": "제26조",
+          "clause": 2,
+          "sub_clause": 2
+        }
+      }
+    },
+    {
+      "gold_idx": 12,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 29,
+        "clauses": [
+          "1"
+        ],
+        "page": null
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "청구기간_1년제한",
+        "loc": {
+          "article": "제29조",
+          "clause": 1
+        }
+      }
+    },
+    {
+      "gold_idx": 13,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 29,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "집단소송_금지",
+        "loc": {
+          "article": "제29조",
+          "clause": 2
+        }
+      }
+    },
+    {
+      "gold_idx": 14,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 1,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "운영정책_약관우선및해석권전속",
+        "loc": {
+          "article": "별첨 1, 제1조",
+          "clause": 2
+        }
+      }
+    },
+    {
+      "gold_idx": 15,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 2,
+        "clauses": [
+          "1"
+        ],
+        "page": null
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "무료이용_SLA부인및책임면제",
+        "loc": {
+          "article": "별첨 2, 제4조",
+          "clause": 1,
+          "sub_clause": 3
+        }
+      }
+    },
+    {
+      "gold_idx": 16,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 2,
+        "clauses": [
+          "1"
+        ],
+        "page": null
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "이용패턴_포괄모니터링",
+        "loc": {
+          "article": "별첨 2, 제6조",
+          "clause": 1
+        }
+      }
+    },
+    {
+      "gold_idx": 17,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 3,
+        "clauses": [
+          "1"
+        ],
+        "page": null
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "분쟁해결_중재강제",
+        "loc": {
+          "article": "별첨 3, 제3조",
+          "clause": 1
+        }
+      }
+    },
+    {
+      "gold_idx": 18,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 30,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "관할법원_일방지정",
+        "loc": {
+          "article": "제30조",
+          "clause": 2
+        }
+      }
+    },
+    {
+      "gold_idx": 19,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 34,
+        "clauses": [
+          "3"
+        ],
+        "page": null
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "참조교란_최종확인",
+        "loc": {
+          "article": "제34조",
+          "clause": 3
+        }
+      }
+    }
+  ]
+}

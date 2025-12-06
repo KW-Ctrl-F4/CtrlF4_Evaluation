@@ -1,0 +1,1037 @@
+{
+  "gold_locs": [
+    {
+      "article": 4,
+      "clauses": [
+        "2"
+      ],
+      "page": 6
+    },
+    {
+      "article": 7,
+      "clauses": [
+        "1"
+      ],
+      "page": 8
+    },
+    {
+      "article": 9,
+      "clauses": [
+        "2"
+      ],
+      "page": 10
+    },
+    {
+      "article": 12,
+      "clauses": [
+        "1"
+      ],
+      "page": 12
+    },
+    {
+      "article": 12,
+      "clauses": [
+        "2"
+      ],
+      "page": 12
+    },
+    {
+      "article": 14,
+      "clauses": [
+        "4",
+        "5"
+      ],
+      "page": 13
+    },
+    {
+      "article": 17,
+      "clauses": [
+        "2"
+      ],
+      "page": 14
+    },
+    {
+      "article": 17,
+      "clauses": [
+        "3"
+      ],
+      "page": 14
+    },
+    {
+      "article": 17,
+      "clauses": [
+        "4"
+      ],
+      "page": 14
+    },
+    {
+      "article": 18,
+      "clauses": [
+        "1",
+        "2"
+      ],
+      "page": 15
+    },
+    {
+      "article": 1,
+      "clauses": [
+        "2"
+      ],
+      "page": 15
+    },
+    {
+      "article": 2,
+      "clauses": [
+        "1"
+      ],
+      "page": 15
+    },
+    {
+      "article": 3,
+      "clauses": [
+        "1",
+        "2"
+      ],
+      "page": 15
+    }
+  ],
+  "our_locs": [
+    {
+      "article": 2,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 4,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 12,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 12,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 17,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 17,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 18,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 9,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 14,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 15,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 5,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 9,
+      "clauses": [],
+      "page": null
+    }
+  ],
+  "llm_locs": [
+    {
+      "article": 4,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 10,
+      "clauses": [
+        "1",
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 9,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 17,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 17,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 12,
+      "clauses": [
+        "1"
+      ],
+      "page": null
+    },
+    {
+      "article": 12,
+      "clauses": [
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 18,
+      "clauses": [
+        "1",
+        "2"
+      ],
+      "page": null
+    },
+    {
+      "article": 14,
+      "clauses": [],
+      "page": null
+    }
+  ],
+  "our": [
+    {
+      "gold_idx": 0,
+      "pred_idx": 1,
+      "matched": true,
+      "gold_loc": {
+        "article": 4,
+        "clauses": [
+          "2"
+        ],
+        "page": 6
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "수탁자('을')의 개인정보 목적 외 이용 (서비스 개선, AI 학습)",
+        "loc": {
+          "article": 4,
+          "clause": 2,
+          "page": 6
+        }
+      },
+      "pred_loc": {
+        "article": 4,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "7) 지식재산·개선결과물·저작인격권",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제 4 조 (수탁자의 의무 및 처리 제한) - 목적 외 이용"
+      }
+    },
+    {
+      "gold_idx": 1,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 7,
+        "clauses": [
+          "1"
+        ],
+        "page": 8
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "수탁자('을')의 불명확한 보안 조치 의무 (의미 변형)",
+        "loc": {
+          "article": 7,
+          "clause": 1,
+          "page": 8
+        }
+      }
+    },
+    {
+      "gold_idx": 2,
+      "pred_idx": 7,
+      "matched": true,
+      "gold_loc": {
+        "article": 9,
+        "clauses": [
+          "2"
+        ],
+        "page": 10
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "재수탁자(Sub-processor)에 대한 포괄적 사전 동의",
+        "loc": {
+          "article": 9,
+          "clause": 2,
+          "page": 10
+        }
+      },
+      "pred_loc": {
+        "article": 9,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "6) 해지·분쟁·소송제한",
+        "severity": "medium",
+        "loc": null,
+        "anchor_title": "제 9 조 (하위 수탁자) - 거부 시 해지"
+      }
+    },
+    {
+      "gold_idx": 3,
+      "pred_idx": 2,
+      "matched": true,
+      "gold_loc": {
+        "article": 12,
+        "clauses": [
+          "1"
+        ],
+        "page": 12
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "수탁자('을')의 간접/결과적 손해 배상 배제",
+        "loc": {
+          "article": 12,
+          "clause": 1,
+          "page": 12
+        }
+      },
+      "pred_loc": {
+        "article": 12,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "2) 책임상한·간접손해·면책",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제 12 조 (책임 및 면책) - 책임 상한"
+      }
+    },
+    {
+      "gold_idx": 4,
+      "pred_idx": 2,
+      "matched": true,
+      "gold_loc": {
+        "article": 12,
+        "clauses": [
+          "2"
+        ],
+        "page": 12
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "수탁자('을')의 배상 책임 3개월 요금 한도",
+        "loc": {
+          "article": 12,
+          "clause": 2,
+          "page": 12
+        }
+      },
+      "pred_loc": {
+        "article": 12,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "2) 책임상한·간접손해·면책",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제 12 조 (책임 및 면책) - 책임 상한"
+      }
+    },
+    {
+      "gold_idx": 5,
+      "pred_idx": 8,
+      "matched": true,
+      "gold_loc": {
+        "article": 14,
+        "clauses": [
+          "4",
+          "5"
+        ],
+        "page": 13
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "위탁자('갑')의 감사 권한 제한",
+        "loc": {
+          "article": 14,
+          "clause": "4, 5",
+          "page": 13
+        }
+      },
+      "pred_loc": {
+        "article": 14,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "8) 기타",
+        "severity": "medium",
+        "loc": null,
+        "anchor_title": "제 14 조 (감사) - 감사권 제한"
+      }
+    },
+    {
+      "gold_idx": 6,
+      "pred_idx": 5,
+      "matched": true,
+      "gold_loc": {
+        "article": 17,
+        "clauses": [
+          "2"
+        ],
+        "page": 14
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "강제적 해외 중재 (홍콩)",
+        "loc": {
+          "article": 17,
+          "clause": 2,
+          "page": 14
+        }
+      },
+      "pred_loc": {
+        "article": 17,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "6) 해지·분쟁·소송제한",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제 17 조 (준거법 및 분쟁 해결) - 청구 기한 단축"
+      }
+    },
+    {
+      "gold_idx": 7,
+      "pred_idx": 4,
+      "matched": true,
+      "gold_loc": {
+        "article": 17,
+        "clauses": [
+          "3"
+        ],
+        "page": 14
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "집단 소송 금지 (위탁자 한정)",
+        "loc": {
+          "article": 17,
+          "clause": 3,
+          "page": 14
+        }
+      },
+      "pred_loc": {
+        "article": 17,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "6) 해지·분쟁·소송제한",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제 17 조 (준거법 및 분쟁 해결) - 중재 및 집단소송 금지"
+      }
+    },
+    {
+      "gold_idx": 8,
+      "pred_idx": 4,
+      "matched": true,
+      "gold_loc": {
+        "article": 17,
+        "clauses": [
+          "4"
+        ],
+        "page": 14
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "6개월 단기 청구 기한 제한 (위탁자 한정)",
+        "loc": {
+          "article": 17,
+          "clause": 4,
+          "page": 14
+        }
+      },
+      "pred_loc": {
+        "article": 17,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "6) 해지·분쟁·소송제한",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제 17 조 (준거법 및 분쟁 해결) - 중재 및 집단소송 금지"
+      }
+    },
+    {
+      "gold_idx": 9,
+      "pred_idx": 6,
+      "matched": true,
+      "gold_loc": {
+        "article": 18,
+        "clauses": [
+          "1",
+          "2"
+        ],
+        "page": 15
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "수탁자('을')의 일방적 계약 변경권 (묵시적 동의)",
+        "loc": {
+          "article": 18,
+          "clause": "1, 2",
+          "page": 15
+        }
+      },
+      "pred_loc": {
+        "article": 18,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "1) 요금·환불·자동결제",
+        "severity": "medium",
+        "loc": null,
+        "anchor_title": "제 18 조 (일반 조항) - 일방적 변경권"
+      }
+    },
+    {
+      "gold_idx": 10,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 1,
+        "clauses": [
+          "2"
+        ],
+        "page": 15
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "부칙의 최우선 적용 (참조 교란)",
+        "loc": {
+          "article": "부칙 1조",
+          "clause": 2,
+          "page": 15
+        }
+      }
+    },
+    {
+      "gold_idx": 11,
+      "pred_idx": 0,
+      "matched": true,
+      "gold_loc": {
+        "article": 2,
+        "clauses": [
+          "1"
+        ],
+        "page": 15
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "개인정보 목적 외 이용 'AI 학습' (부칙 우선 적용)",
+        "loc": {
+          "article": "부칙 2조",
+          "clause": 1,
+          "page": 15
+        }
+      },
+      "pred_loc": {
+        "article": 2,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "3) 개인정보·정보보호·데이터 이용",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제2조 (국외 이전 및 AI 모델 고도화)"
+      }
+    },
+    {
+      "gold_idx": 12,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 3,
+        "clauses": [
+          "1",
+          "2"
+        ],
+        "page": 15
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "데이터 국외 이전 포괄적 동의 (고지 면제)",
+        "loc": {
+          "article": "부칙 3조",
+          "clause": "1, 2",
+          "page": 15
+        }
+      }
+    }
+  ],
+  "llm": [
+    {
+      "gold_idx": 0,
+      "pred_idx": 0,
+      "matched": true,
+      "gold_loc": {
+        "article": 4,
+        "clauses": [
+          "2"
+        ],
+        "page": 6
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "수탁자('을')의 개인정보 목적 외 이용 (서비스 개선, AI 학습)",
+        "loc": {
+          "article": 4,
+          "clause": 2,
+          "page": 6
+        }
+      },
+      "pred_loc": {
+        "article": 4,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "개인정보 목적 외 이용(AI 학습·영구 보관) 포괄 동의",
+        "severity": "high",
+        "loc": {
+          "article": 4,
+          "clause": "2",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 1,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 7,
+        "clauses": [
+          "1"
+        ],
+        "page": 8
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "수탁자('을')의 불명확한 보안 조치 의무 (의미 변형)",
+        "loc": {
+          "article": 7,
+          "clause": 1,
+          "page": 8
+        }
+      }
+    },
+    {
+      "gold_idx": 2,
+      "pred_idx": 2,
+      "matched": true,
+      "gold_loc": {
+        "article": 9,
+        "clauses": [
+          "2"
+        ],
+        "page": 10
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "재수탁자(Sub-processor)에 대한 포괄적 사전 동의",
+        "loc": {
+          "article": 9,
+          "clause": 2,
+          "page": 10
+        }
+      },
+      "pred_loc": {
+        "article": 9,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "하위 수탁자(제3자) 추가에 대한 포괄적 사전 동의",
+        "severity": "high",
+        "loc": {
+          "article": 9,
+          "clause": "2",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 3,
+      "pred_idx": 5,
+      "matched": true,
+      "gold_loc": {
+        "article": 12,
+        "clauses": [
+          "1"
+        ],
+        "page": 12
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "수탁자('을')의 간접/결과적 손해 배상 배제",
+        "loc": {
+          "article": 12,
+          "clause": 1,
+          "page": 12
+        }
+      },
+      "pred_loc": {
+        "article": 12,
+        "clauses": [
+          "1"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "간접·결과적 손해 전면 면책",
+        "severity": "high",
+        "loc": {
+          "article": 12,
+          "clause": "1",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 4,
+      "pred_idx": 6,
+      "matched": true,
+      "gold_loc": {
+        "article": 12,
+        "clauses": [
+          "2"
+        ],
+        "page": 12
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "수탁자('을')의 배상 책임 3개월 요금 한도",
+        "loc": {
+          "article": 12,
+          "clause": 2,
+          "page": 12
+        }
+      },
+      "pred_loc": {
+        "article": 12,
+        "clauses": [
+          "2"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "책임 상한 3개월 요금 또는 1,000달러",
+        "severity": "high",
+        "loc": {
+          "article": 12,
+          "clause": "2",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 5,
+      "pred_idx": 8,
+      "matched": true,
+      "gold_loc": {
+        "article": 14,
+        "clauses": [
+          "4",
+          "5"
+        ],
+        "page": 13
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "위탁자('갑')의 감사 권한 제한",
+        "loc": {
+          "article": 14,
+          "clause": "4, 5",
+          "page": 13
+        }
+      },
+      "pred_loc": {
+        "article": 14,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "감사 권한의 사실상 제한(대체 보고서 우선)",
+        "severity": "medium",
+        "loc": {
+          "article": 14,
+          "clause": "",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 6,
+      "pred_idx": 3,
+      "matched": true,
+      "gold_loc": {
+        "article": 17,
+        "clauses": [
+          "2"
+        ],
+        "page": 14
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "강제적 해외 중재 (홍콩)",
+        "loc": {
+          "article": 17,
+          "clause": 2,
+          "page": 14
+        }
+      },
+      "pred_loc": {
+        "article": 17,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "집단 소송 금지 + 법원 소송 포기",
+        "severity": "high",
+        "loc": {
+          "article": 17,
+          "clause": "",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 7,
+      "pred_idx": 3,
+      "matched": true,
+      "gold_loc": {
+        "article": 17,
+        "clauses": [
+          "3"
+        ],
+        "page": 14
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "집단 소송 금지 (위탁자 한정)",
+        "loc": {
+          "article": 17,
+          "clause": 3,
+          "page": 14
+        }
+      },
+      "pred_loc": {
+        "article": 17,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "집단 소송 금지 + 법원 소송 포기",
+        "severity": "high",
+        "loc": {
+          "article": 17,
+          "clause": "",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 8,
+      "pred_idx": 3,
+      "matched": true,
+      "gold_loc": {
+        "article": 17,
+        "clauses": [
+          "4"
+        ],
+        "page": 14
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "6개월 단기 청구 기한 제한 (위탁자 한정)",
+        "loc": {
+          "article": 17,
+          "clause": 4,
+          "page": 14
+        }
+      },
+      "pred_loc": {
+        "article": 17,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "집단 소송 금지 + 법원 소송 포기",
+        "severity": "high",
+        "loc": {
+          "article": 17,
+          "clause": "",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 9,
+      "pred_idx": 7,
+      "matched": true,
+      "gold_loc": {
+        "article": 18,
+        "clauses": [
+          "1",
+          "2"
+        ],
+        "page": 15
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "수탁자('을')의 일방적 계약 변경권 (묵시적 동의)",
+        "loc": {
+          "article": 18,
+          "clause": "1, 2",
+          "page": 15
+        }
+      },
+      "pred_loc": {
+        "article": 18,
+        "clauses": [
+          "1",
+          "2"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "수탁자의 일방적 정책 및 보안 조치 변경권",
+        "severity": "medium",
+        "loc": {
+          "article": 18,
+          "clause": "1, 2",
+          "page": null
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 10,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 1,
+        "clauses": [
+          "2"
+        ],
+        "page": 15
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "부칙의 최우선 적용 (참조 교란)",
+        "loc": {
+          "article": "부칙 1조",
+          "clause": 2,
+          "page": 15
+        }
+      }
+    },
+    {
+      "gold_idx": 11,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 2,
+        "clauses": [
+          "1"
+        ],
+        "page": 15
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "개인정보 목적 외 이용 'AI 학습' (부칙 우선 적용)",
+        "loc": {
+          "article": "부칙 2조",
+          "clause": 1,
+          "page": 15
+        }
+      }
+    },
+    {
+      "gold_idx": 12,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 3,
+        "clauses": [
+          "1",
+          "2"
+        ],
+        "page": 15
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "데이터 국외 이전 포괄적 동의 (고지 면제)",
+        "loc": {
+          "article": "부칙 3조",
+          "clause": "1, 2",
+          "page": 15
+        }
+      }
+    }
+  ]
+}

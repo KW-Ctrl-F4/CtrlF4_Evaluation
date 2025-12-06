@@ -1,0 +1,1083 @@
+{
+  "gold_locs": [
+    {
+      "article": 7,
+      "clauses": [
+        "2"
+      ],
+      "page": 5
+    },
+    {
+      "article": 7,
+      "clauses": [
+        "3"
+      ],
+      "page": 6
+    },
+    {
+      "article": 9,
+      "clauses": [
+        "2"
+      ],
+      "page": 8
+    },
+    {
+      "article": 9,
+      "clauses": [
+        "3"
+      ],
+      "page": 9
+    },
+    {
+      "article": 10,
+      "clauses": [
+        "2"
+      ],
+      "page": 10
+    },
+    {
+      "article": 10,
+      "clauses": [
+        "5"
+      ],
+      "page": 11
+    },
+    {
+      "article": 13,
+      "clauses": [
+        "3",
+        "4"
+      ],
+      "page": 13
+    },
+    {
+      "article": 13,
+      "clauses": [
+        "6"
+      ],
+      "page": 14
+    },
+    {
+      "article": 14,
+      "clauses": [
+        "3",
+        "5"
+      ],
+      "page": 14
+    },
+    {
+      "article": 14,
+      "clauses": [
+        "7"
+      ],
+      "page": 15
+    },
+    {
+      "article": 16,
+      "clauses": [
+        "3"
+      ],
+      "page": 16
+    },
+    {
+      "article": 16,
+      "clauses": [
+        "5"
+      ],
+      "page": 17
+    },
+    {
+      "article": 16,
+      "clauses": [
+        "6"
+      ],
+      "page": 17
+    },
+    {
+      "article": 17,
+      "clauses": [
+        "4"
+      ],
+      "page": 18
+    },
+    {
+      "article": 17,
+      "clauses": [
+        "10"
+      ],
+      "page": 19
+    }
+  ],
+  "our_locs": [
+    {
+      "article": 16,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 16,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 16,
+      "clauses": [
+        "3"
+      ],
+      "page": null
+    },
+    {
+      "article": 2,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 2,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 17,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 11,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 7,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 7,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 5,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 10,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 5,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 13,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 4,
+      "clauses": [],
+      "page": null
+    },
+    {
+      "article": 14,
+      "clauses": [],
+      "page": null
+    }
+  ],
+  "llm_locs": [
+    {
+      "article": 4,
+      "clauses": [
+        "3"
+      ],
+      "page": 3
+    },
+    {
+      "article": 5,
+      "clauses": [
+        "2"
+      ],
+      "page": 3
+    },
+    {
+      "article": 6,
+      "clauses": [
+        "1"
+      ],
+      "page": 4
+    },
+    {
+      "article": 6,
+      "clauses": [
+        "3"
+      ],
+      "page": 4
+    },
+    {
+      "article": 7,
+      "clauses": [
+        "2"
+      ],
+      "page": 4
+    },
+    {
+      "article": 7,
+      "clauses": [
+        "3"
+      ],
+      "page": 4
+    },
+    {
+      "article": 7,
+      "clauses": [
+        "4"
+      ],
+      "page": 4
+    },
+    {
+      "article": 8,
+      "clauses": [
+        "2"
+      ],
+      "page": 5
+    },
+    {
+      "article": 10,
+      "clauses": [
+        "1"
+      ],
+      "page": 6
+    },
+    {
+      "article": 10,
+      "clauses": [
+        "3"
+      ],
+      "page": 6
+    }
+  ],
+  "our": [
+    {
+      "gold_idx": 0,
+      "pred_idx": 7,
+      "matched": true,
+      "gold_loc": {
+        "article": 7,
+        "clauses": [
+          "2"
+        ],
+        "page": 5
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "광범위한 배타성 (경쟁사 정의)",
+        "loc": {
+          "article": 7,
+          "clause": 2,
+          "page": 5
+        }
+      },
+      "pred_loc": {
+        "article": 7,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "요금·환불·자동결제",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제 7 조 (독점성 및 경업 금지)"
+      }
+    },
+    {
+      "gold_idx": 1,
+      "pred_idx": 7,
+      "matched": true,
+      "gold_loc": {
+        "article": 7,
+        "clauses": [
+          "3"
+        ],
+        "page": 6
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "과도한 위약벌 (500%)",
+        "loc": {
+          "article": 7,
+          "clause": 3,
+          "page": 6
+        }
+      },
+      "pred_loc": {
+        "article": 7,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "요금·환불·자동결제",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제 7 조 (독점성 및 경업 금지)"
+      }
+    },
+    {
+      "gold_idx": 2,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 9,
+        "clauses": [
+          "2"
+        ],
+        "page": 8
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "창작물(산출물) 저작권의 포괄적 양도",
+        "loc": {
+          "article": 9,
+          "clause": 2,
+          "page": 8
+        }
+      }
+    },
+    {
+      "gold_idx": 3,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 9,
+        "clauses": [
+          "3"
+        ],
+        "page": 9
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "저작인격권 포기",
+        "loc": {
+          "article": 9,
+          "clause": 3,
+          "page": 9
+        }
+      }
+    },
+    {
+      "gold_idx": 4,
+      "pred_idx": 10,
+      "matched": true,
+      "gold_loc": {
+        "article": 10,
+        "clauses": [
+          "2"
+        ],
+        "page": 10
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "데이터의 포괄적 이용 (AI 학습)",
+        "loc": {
+          "article": 10,
+          "clause": 2,
+          "page": 10
+        }
+      },
+      "pred_loc": {
+        "article": 10,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "지식재산·개선결과물·저작인격권",
+        "severity": "medium",
+        "loc": null,
+        "anchor_title": "제10 조"
+      }
+    },
+    {
+      "gold_idx": 5,
+      "pred_idx": 10,
+      "matched": true,
+      "gold_loc": {
+        "article": 10,
+        "clauses": [
+          "5"
+        ],
+        "page": 11
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "데이터 국외 이전 포괄적 동의",
+        "loc": {
+          "article": 10,
+          "clause": 5,
+          "page": 11
+        }
+      },
+      "pred_loc": {
+        "article": 10,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "지식재산·개선결과물·저작인격권",
+        "severity": "medium",
+        "loc": null,
+        "anchor_title": "제10 조"
+      }
+    },
+    {
+      "gold_idx": 6,
+      "pred_idx": 12,
+      "matched": true,
+      "gold_loc": {
+        "article": 13,
+        "clauses": [
+          "3",
+          "4"
+        ],
+        "page": 13
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "스폰서('갑')의 간접손해 면책 및 배상책임 '후원금' 한도",
+        "loc": {
+          "article": 13,
+          "clause": "3, 4",
+          "page": 13
+        }
+      },
+      "pred_loc": {
+        "article": 13,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "해지·분쟁·소송제한",
+        "severity": "medium",
+        "loc": null,
+        "anchor_title": "제13 조"
+      }
+    },
+    {
+      "gold_idx": 7,
+      "pred_idx": 12,
+      "matched": true,
+      "gold_loc": {
+        "article": 13,
+        "clauses": [
+          "6"
+        ],
+        "page": 14
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "후원 대상('을')의 무제한 책임",
+        "loc": {
+          "article": 13,
+          "clause": 6,
+          "page": 14
+        }
+      },
+      "pred_loc": {
+        "article": 13,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "해지·분쟁·소송제한",
+        "severity": "medium",
+        "loc": null,
+        "anchor_title": "제13 조"
+      }
+    },
+    {
+      "gold_idx": 8,
+      "pred_idx": 14,
+      "matched": true,
+      "gold_loc": {
+        "article": 14,
+        "clauses": [
+          "3",
+          "5"
+        ],
+        "page": 14
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "광범위한 도덕성 조항 및 전액 환수",
+        "loc": {
+          "article": 14,
+          "clause": "3, 5",
+          "page": 14,
+          "evidence": "(3항) ...'을'의 구성원...이... (iii) '갑'의 단독 재량으로 '갑'의 브랜드 이미지...에 부정적인 영향을 미칠 수 있다고 판단되는...'부적절 행위'에 연루되는 경우... '갑'은...즉시 본 계약을 해지하고... (5항) ...'을'의 귀책사유...로 본 계약이 해지되는 경우...갑이 해지 시점까지 기 지급한 후원금 총액...전액을...즉시 환수(Clawback) 조치해야...",
+          "notes": "'갑'의 주관적 판단('단독 재량')만으로 계약을 즉시 해지하고, 이미 지급한 후원금 전액을 환수(Clawback)할 수 있음."
+        }
+      },
+      "pred_loc": {
+        "article": 14,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "기타",
+        "severity": "medium",
+        "loc": null,
+        "anchor_title": "제14 조"
+      }
+    },
+    {
+      "gold_idx": 9,
+      "pred_idx": 14,
+      "matched": true,
+      "gold_loc": {
+        "article": 14,
+        "clauses": [
+          "7"
+        ],
+        "page": 15
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "구제수단 제한 (참조 교란)",
+        "loc": {
+          "article": 14,
+          "clause": 7,
+          "page": 15
+        }
+      },
+      "pred_loc": {
+        "article": 14,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "기타",
+        "severity": "medium",
+        "loc": null,
+        "anchor_title": "제14 조"
+      }
+    },
+    {
+      "gold_idx": 10,
+      "pred_idx": 2,
+      "matched": true,
+      "gold_loc": {
+        "article": 16,
+        "clauses": [
+          "3"
+        ],
+        "page": 16
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "강제적 해외 중재 (싱가포르)",
+        "loc": {
+          "article": 16,
+          "clause": 3,
+          "page": 16
+        }
+      },
+      "pred_loc": {
+        "article": 16,
+        "clauses": [
+          "3"
+        ],
+        "page": null
+      },
+      "pred_item": {
+        "type": "해지·분쟁·소송제한",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제 16 조 (준거법 및 분쟁 해결)"
+      }
+    },
+    {
+      "gold_idx": 11,
+      "pred_idx": 0,
+      "matched": true,
+      "gold_loc": {
+        "article": 16,
+        "clauses": [
+          "5"
+        ],
+        "page": 17
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "집단 소송 금지 (후원 대상 한정)",
+        "loc": {
+          "article": 16,
+          "clause": 5,
+          "page": 17
+        }
+      },
+      "pred_loc": {
+        "article": 16,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "해지·분쟁·소송제한",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제 16 조 (준거법 및 분쟁 해결)"
+      }
+    },
+    {
+      "gold_idx": 12,
+      "pred_idx": 0,
+      "matched": true,
+      "gold_loc": {
+        "article": 16,
+        "clauses": [
+          "6"
+        ],
+        "page": 17
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "6개월 단기 청구 기한 제한 (후원 대상 한정)",
+        "loc": {
+          "article": 16,
+          "clause": 6,
+          "page": 17
+        }
+      },
+      "pred_loc": {
+        "article": 16,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "해지·분쟁·소송제한",
+        "severity": "high",
+        "loc": null,
+        "anchor_title": "제 16 조 (준거법 및 분쟁 해결)"
+      }
+    },
+    {
+      "gold_idx": 13,
+      "pred_idx": 5,
+      "matched": true,
+      "gold_loc": {
+        "article": 17,
+        "clauses": [
+          "4"
+        ],
+        "page": 18
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "스폰서('갑')의 일방적 계약(정책) 변경권",
+        "loc": {
+          "article": 17,
+          "clause": 4,
+          "page": 18
+        }
+      },
+      "pred_loc": {
+        "article": 17,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "서비스/콘텐츠 변경·정지권",
+        "severity": "medium",
+        "loc": null,
+        "anchor_title": "제 17 조 (일반 조항)"
+      }
+    },
+    {
+      "gold_idx": 14,
+      "pred_idx": 5,
+      "matched": true,
+      "gold_loc": {
+        "article": 17,
+        "clauses": [
+          "10"
+        ],
+        "page": 19
+      },
+      "match_stage": "article_only",
+      "gold_item": {
+        "type": "참조 교란 (존재하지 않는 부칙)",
+        "loc": {
+          "article": 17,
+          "clause": 10,
+          "page": 19
+        }
+      },
+      "pred_loc": {
+        "article": 17,
+        "clauses": [],
+        "page": null
+      },
+      "pred_item": {
+        "type": "서비스/콘텐츠 변경·정지권",
+        "severity": "medium",
+        "loc": null,
+        "anchor_title": "제 17 조 (일반 조항)"
+      }
+    }
+  ],
+  "llm": [
+    {
+      "gold_idx": 0,
+      "pred_idx": 4,
+      "matched": true,
+      "gold_loc": {
+        "article": 7,
+        "clauses": [
+          "2"
+        ],
+        "page": 5
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "광범위한 배타성 (경쟁사 정의)",
+        "loc": {
+          "article": 7,
+          "clause": 2,
+          "page": 5
+        }
+      },
+      "pred_loc": {
+        "article": 7,
+        "clauses": [
+          "2"
+        ],
+        "page": 4
+      },
+      "pred_item": {
+        "type": "보증 부인 및 품질 책임 면제",
+        "severity": "medium",
+        "loc": {
+          "article": 7,
+          "clause": "2",
+          "page": 4
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 1,
+      "pred_idx": 5,
+      "matched": true,
+      "gold_loc": {
+        "article": 7,
+        "clauses": [
+          "3"
+        ],
+        "page": 6
+      },
+      "match_stage": "clause",
+      "gold_item": {
+        "type": "과도한 위약벌 (500%)",
+        "loc": {
+          "article": 7,
+          "clause": 3,
+          "page": 6
+        }
+      },
+      "pred_loc": {
+        "article": 7,
+        "clauses": [
+          "3"
+        ],
+        "page": 4
+      },
+      "pred_item": {
+        "type": "간접·특별·결과적 손해 전면 면책",
+        "severity": "high",
+        "loc": {
+          "article": 7,
+          "clause": "3",
+          "page": 4
+        },
+        "anchor_title": null
+      }
+    },
+    {
+      "gold_idx": 2,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 9,
+        "clauses": [
+          "2"
+        ],
+        "page": 8
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "창작물(산출물) 저작권의 포괄적 양도",
+        "loc": {
+          "article": 9,
+          "clause": 2,
+          "page": 8
+        }
+      }
+    },
+    {
+      "gold_idx": 3,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 9,
+        "clauses": [
+          "3"
+        ],
+        "page": 9
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "저작인격권 포기",
+        "loc": {
+          "article": 9,
+          "clause": 3,
+          "page": 9
+        }
+      }
+    },
+    {
+      "gold_idx": 4,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 10,
+        "clauses": [
+          "2"
+        ],
+        "page": 10
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "데이터의 포괄적 이용 (AI 학습)",
+        "loc": {
+          "article": 10,
+          "clause": 2,
+          "page": 10
+        }
+      }
+    },
+    {
+      "gold_idx": 5,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 10,
+        "clauses": [
+          "5"
+        ],
+        "page": 11
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "데이터 국외 이전 포괄적 동의",
+        "loc": {
+          "article": 10,
+          "clause": 5,
+          "page": 11
+        }
+      }
+    },
+    {
+      "gold_idx": 6,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 13,
+        "clauses": [
+          "3",
+          "4"
+        ],
+        "page": 13
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "스폰서('갑')의 간접손해 면책 및 배상책임 '후원금' 한도",
+        "loc": {
+          "article": 13,
+          "clause": "3, 4",
+          "page": 13
+        }
+      }
+    },
+    {
+      "gold_idx": 7,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 13,
+        "clauses": [
+          "6"
+        ],
+        "page": 14
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "후원 대상('을')의 무제한 책임",
+        "loc": {
+          "article": 13,
+          "clause": 6,
+          "page": 14
+        }
+      }
+    },
+    {
+      "gold_idx": 8,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 14,
+        "clauses": [
+          "3",
+          "5"
+        ],
+        "page": 14
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "광범위한 도덕성 조항 및 전액 환수",
+        "loc": {
+          "article": 14,
+          "clause": "3, 5",
+          "page": 14,
+          "evidence": "(3항) ...'을'의 구성원...이... (iii) '갑'의 단독 재량으로 '갑'의 브랜드 이미지...에 부정적인 영향을 미칠 수 있다고 판단되는...'부적절 행위'에 연루되는 경우... '갑'은...즉시 본 계약을 해지하고... (5항) ...'을'의 귀책사유...로 본 계약이 해지되는 경우...갑이 해지 시점까지 기 지급한 후원금 총액...전액을...즉시 환수(Clawback) 조치해야...",
+          "notes": "'갑'의 주관적 판단('단독 재량')만으로 계약을 즉시 해지하고, 이미 지급한 후원금 전액을 환수(Clawback)할 수 있음."
+        }
+      }
+    },
+    {
+      "gold_idx": 9,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 14,
+        "clauses": [
+          "7"
+        ],
+        "page": 15
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "구제수단 제한 (참조 교란)",
+        "loc": {
+          "article": 14,
+          "clause": 7,
+          "page": 15
+        }
+      }
+    },
+    {
+      "gold_idx": 10,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 16,
+        "clauses": [
+          "3"
+        ],
+        "page": 16
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "강제적 해외 중재 (싱가포르)",
+        "loc": {
+          "article": 16,
+          "clause": 3,
+          "page": 16
+        }
+      }
+    },
+    {
+      "gold_idx": 11,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 16,
+        "clauses": [
+          "5"
+        ],
+        "page": 17
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "집단 소송 금지 (후원 대상 한정)",
+        "loc": {
+          "article": 16,
+          "clause": 5,
+          "page": 17
+        }
+      }
+    },
+    {
+      "gold_idx": 12,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 16,
+        "clauses": [
+          "6"
+        ],
+        "page": 17
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "6개월 단기 청구 기한 제한 (후원 대상 한정)",
+        "loc": {
+          "article": 16,
+          "clause": 6,
+          "page": 17
+        }
+      }
+    },
+    {
+      "gold_idx": 13,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 17,
+        "clauses": [
+          "4"
+        ],
+        "page": 18
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "스폰서('갑')의 일방적 계약(정책) 변경권",
+        "loc": {
+          "article": 17,
+          "clause": 4,
+          "page": 18
+        }
+      }
+    },
+    {
+      "gold_idx": 14,
+      "pred_idx": null,
+      "matched": false,
+      "gold_loc": {
+        "article": 17,
+        "clauses": [
+          "10"
+        ],
+        "page": 19
+      },
+      "match_stage": null,
+      "gold_item": {
+        "type": "참조 교란 (존재하지 않는 부칙)",
+        "loc": {
+          "article": 17,
+          "clause": 10,
+          "page": 19
+        }
+      }
+    }
+  ]
+}
