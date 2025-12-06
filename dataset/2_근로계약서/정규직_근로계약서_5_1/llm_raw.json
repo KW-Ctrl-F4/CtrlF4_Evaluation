@@ -1,0 +1,107 @@
+{
+  "risk_items": [
+    {
+      "type": "unilateral_work_change",
+      "severity": "medium",
+      "loc": {
+        "article": 3,
+        "clause": 2,
+        "page": 2
+      },
+      "evidence": "회사는 업무상 필요한 경우 근무장소와 업무 내용을 변경할 수 있다.",
+      "notes": "근무조건 변경 폭 넓음"
+    },
+    {
+      "type": "broad_ip_assignment",
+      "severity": "high",
+      "loc": {
+        "article": 11,
+        "clause": 1,
+        "page": 6
+      },
+      "evidence": "근로자가 재직 중 취득한 모든 발명과 저작물은 회사에 귀속된다.",
+      "notes": "직무 관련성 범위 불명확"
+    },
+    {
+      "type": "post_termination_noncompete",
+      "severity": "high",
+      "loc": {
+        "article": 12,
+        "clause": 2,
+        "page": 7
+      },
+      "evidence": "근로자는 퇴직 후 1년간 동종 업계 취업을 제한한다.",
+      "notes": "경업금지 조항"
+    }
+  ],
+  "summary_must_have": [
+    "임금 구성 및 지급일",
+    "근로시간 및 휴게시간",
+    "연장근로 가산수당",
+    "연차휴가 발생 및 사용",
+    "징계 및 해고 요건",
+    "비밀유지 및 개인정보 처리",
+    "지식재산권 귀속",
+    "경업금지 여부"
+  ],
+  "summary": [
+    {
+      "text": "근로시간은 주 40시간 기준",
+      "anchor": "제4조"
+    },
+    {
+      "text": "임금은 매월 지정 일자에 지급",
+      "anchor": "제5조"
+    },
+    {
+      "text": "연장근로는 사전 승인 필요",
+      "anchor": "제6조"
+    },
+    {
+      "text": "연차휴가는 발생 요건에 따라 부여",
+      "anchor": "제8조"
+    },
+    {
+      "text": "퇴직금은 법에 따라 지급",
+      "anchor": "제10조"
+    },
+    {
+      "text": "지식재산권은 회사 귀속",
+      "anchor": "제11조"
+    },
+    {
+      "text": "경업금지는 1년 범위에서 적용",
+      "anchor": "제12조"
+    },
+    {
+      "text": "개인정보는 인사 목적 범위에서 처리",
+      "anchor": "제13조"
+    }
+  ],
+  "qa_pairs": [
+    {
+      "question": "연장근로 시 가산수당이 적용되는가?",
+      "answer": "연장근로는 통상임금의 50% 이상 가산하여 지급된다.",
+      "evidence": {
+        "article": 6,
+        "quote": "연장근로에 대해서는 관련 법령에 따라 가산임금을 지급한다."
+      }
+    },
+    {
+      "question": "퇴직금 지급 기준은?",
+      "answer": "근속 1년 이상 근로자에게 지급된다.",
+      "evidence": {
+        "article": 10,
+        "quote": "퇴직금은 근로자퇴직급여보장법에 따라 지급한다."
+      }
+    },
+    {
+      "question": "지식재산권은 누구에게 귀속되는가?",
+      "answer": "근로자가 재직 중 취득한 발명·저작물은 회사 귀속이다.",
+      "evidence": {
+        "article": 11,
+        "quote": "재직 중 취득한 모든 발명과 저작물은 회사의 소유로 한다."
+      }
+    }
+  ]
+}

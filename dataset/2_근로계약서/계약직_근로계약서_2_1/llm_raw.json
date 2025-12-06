@@ -1,0 +1,195 @@
+{
+    "risk_items": [
+        {
+            "type": "contract_auto_end_no_renewal",
+            "severity": "medium",
+            "loc": {
+                "article": 2,
+                "clause": 2,
+                "page": 1
+            },
+            "evidence": "계약 기간 만료 시 근로 관계는 자동 종료되며, 사용자는 근로계약 갱신에 대한 의무를 부담하지 아니한다.",
+            "notes": "근로자 재계약 기대 가능성 차단"
+        },
+        {
+            "type": "job_change_unilateral",
+            "severity": "medium",
+            "loc": {
+                "article": 3,
+                "clause": 2,
+                "page": 1
+            },
+            "evidence": "사용자는 업무상 필요하다고 판단될 경우, 근로자의 직무 내용 및 근무 부서를 변경할 수 있다.",
+            "notes": "배치전환 폭넓음"
+        },
+        {
+            "type": "probation_termination",
+            "severity": "high",
+            "loc": {
+                "article": 4,
+                "clause": 2,
+                "page": 2
+            },
+            "evidence": "시용 기간 중 부적격하다고 판단될 경우 근로기준법에 따라 계약을 해지할 수 있다.",
+            "notes": "시용 기간 중 해고 리스크"
+        },
+        {
+            "type": "overtime_obligation",
+            "severity": "medium",
+            "loc": {
+                "article": 6,
+                "clause": 2,
+                "page": 2
+            },
+            "evidence": "근로자는 정당한 사유 없이 이를 거부할 수 없다.",
+            "notes": "연장근로 사실상 의무"
+        },
+        {
+            "type": "vacation_forfeit",
+            "severity": "medium",
+            "loc": {
+                "article": 7,
+                "clause": 3,
+                "page": 3
+            },
+            "evidence": "연차 휴가는 발생일로부터 1년 이내에 사용해야 하며, 미사용 시 소멸됨을 원칙으로 한다.",
+            "notes": "미사용 연차 소멸"
+        },
+        {
+            "type": "confidentiality_perpetual",
+            "severity": "high",
+            "loc": {
+                "article": 13,
+                "clause": 2,
+                "page": 4
+            },
+            "evidence": "비밀 유지 의무는 본 계약 기간이 종료된 후에도 영구적으로 존속한다.",
+            "notes": "기밀 유지 의무 영구"
+        },
+        {
+            "type": "ip_assignment",
+            "severity": "high",
+            "loc": {
+                "article": 14,
+                "clause": 1,
+                "page": 4
+            },
+            "evidence": "직무 발명에 대한 지식 재산권은 원칙적으로 사용자에게 승계된다.",
+            "notes": "IP 귀속 조항"
+        },
+        {
+            "type": "exclusive_jurisdiction",
+            "severity": "medium",
+            "loc": {
+                "article": 21,
+                "clause": 1,
+                "page": 7
+            },
+            "evidence": "분쟁에 대한 소송은 사용자의 주된 사무소 소재지를 관할하는 법원을 제1심 전속 관할 법원으로 한다.",
+            "notes": "근로자 관할권 제한"
+        }
+    ],
+    "summary_must_have": [
+        "임금(급여) 조건",
+        "근로시간·휴게시간·연장근로 규정",
+        "계약 기간 및 갱신/종료 조건",
+        "휴가·휴일·결근·지각 처리 기준",
+        "징계·해고·계약해지 요건",
+        "업무 내용 및 배치전환 가능 여부",
+        "4대보험 및 법정 의무 준수 항목",
+        "개인정보 처리 및 분쟁 해결"
+    ],
+    "summary": [
+        {
+            "text": "계약기간은 시작일~종료일까지이며, 만료 시 자동 종료",
+            "anchor": "제2조 1·2항"
+        },
+        {
+            "text": "직무 및 부서는 회사가 필요 시 변경 가능",
+            "anchor": "제3조 2항"
+        },
+        {
+            "text": "시용 기간 3개월, 부적격 시 계약 해지 가능",
+            "anchor": "제4조 2항"
+        },
+        {
+            "text": "1일 8시간, 주 40시간 근로, 휴게 1시간",
+            "anchor": "제5조"
+        },
+        {
+            "text": "연장·야간·휴일근로는 정당한 사유 없으면 거부 불가",
+            "anchor": "제6조 2항"
+        },
+        {
+            "text": "연차 미사용분 소멸 가능",
+            "anchor": "제7조 3항"
+        },
+        {
+            "text": "비밀유지 의무는 퇴직 후에도 영구 지속",
+            "anchor": "제13조 2항"
+        },
+        {
+            "text": "직무 발명은 기본적으로 사용자에게 IP 귀속",
+            "anchor": "제14조 1항"
+        },
+        {
+            "text": "징계 사유는 취업규칙에 따르며 중대한 사유 시 해고 가능",
+            "anchor": "제15·16조"
+        },
+        {
+            "text": "4대보험 가입 의무 명시",
+            "anchor": "제20조"
+        },
+        {
+            "text": "분쟁은 사용자 소재지 관할 법원에서 처리",
+            "anchor": "제21조"
+        }
+    ],
+    "qa_pairs": [
+        {
+            "question": "계약 기간이 끝나면 자동으로 갱신되나요?",
+            "answer": "아니요. 계약 기간 만료 시 근로관계는 자동 종료되며 갱신 의무가 없습니다.",
+            "evidence": {
+                "article": 2,
+                "clause": 2,
+                "quote": "계약 기간 만료 시 근로 관계는 자동 종료되며, 사용자는 근로계약 갱신에 대한 의무를 부담하지 아니한다."
+            }
+        },
+        {
+            "question": "회사에서 제 근무 부서를 마음대로 바꿀 수 있나요?",
+            "answer": "업무상 필요 시 근무 부서·직무를 변경할 수 있습니다.",
+            "evidence": {
+                "article": 3,
+                "clause": 2,
+                "quote": "사용자는 업무상 필요하다고 판단될 경우, 근로자의 직무 내용 및 근무 부서를 변경할 수 있다."
+            }
+        },
+        {
+            "question": "시용 기간에는 어떤 평가가 이루어지나요?",
+            "answer": "직무 능력, 태도, 적격성을 평가하며 부적격 시 해지될 수 있습니다.",
+            "evidence": {
+                "article": 4,
+                "clause": 2,
+                "quote": "부적격하다고 판단될 경우 근로기준법에 따라 계약을 해지할 수 있다."
+            }
+        },
+        {
+            "question": "연장근로를 거부할 수 있나요?",
+            "answer": "정당한 사유가 없는 한 거부할 수 없습니다.",
+            "evidence": {
+                "article": 6,
+                "clause": 2,
+                "quote": "근로자는 정당한 사유 없이 이를 거부할 수 없다."
+            }
+        },
+        {
+            "question": "제가 만든 발명의 권리는 누구에게 있나요?",
+            "answer": "직무발명은 원칙적으로 사용자에게 승계됩니다.",
+            "evidence": {
+                "article": 14,
+                "clause": 1,
+                "quote": "직무 발명에 대한 지식 재산권은 원칙적으로 사용자에게 승계되며."
+            }
+        }
+    ]
+}

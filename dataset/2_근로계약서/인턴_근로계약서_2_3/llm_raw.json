@@ -1,0 +1,161 @@
+{
+    "risk_items": [
+        {
+            "type": "location_change_unilateral",
+            "severity": "medium",
+            "loc": {
+                "article": 3,
+                "clause": 2,
+                "page": null
+            },
+            "evidence": "회사는 필요 시 근로자의 동의 없이 근무 장소 및 업무를 변경할 수 있다.",
+            "notes": "배치전환 폭넓음"
+        },
+        {
+            "type": "overtime_obligation",
+            "severity": "medium",
+            "loc": {
+                "article": 4,
+                "clause": 3,
+                "page": null
+            },
+            "evidence": "근로자는 특별한 사유가 없는 한 연장근로 명령에 따라야 한다.",
+            "notes": "연장근로 사실상 강제"
+        },
+        {
+            "type": "termination_employer_broad",
+            "severity": "high",
+            "loc": {
+                "article": 7,
+                "clause": 1,
+                "page": null
+            },
+            "evidence": "회사는 회사 규정에 따른 징계 사유 발생 시 즉시 근로계약을 해지할 수 있다.",
+            "notes": "즉시해지 사유 포괄적"
+        },
+        {
+            "type": "ip_assignment_full",
+            "severity": "high",
+            "loc": {
+                "article": 8,
+                "clause": 2,
+                "page": null
+            },
+            "evidence": "인턴 기간 중 근로자가 개발한 모든 결과물의 지적 property는 회사에 귀속된다.",
+            "notes": "포괄적 저작권 귀속"
+        },
+        {
+            "type": "confidentiality_perpetual",
+            "severity": "medium",
+            "loc": {
+                "article": 9,
+                "clause": 1,
+                "page": null
+            },
+            "evidence": "근로자는 계약 종료 후에도 회사의 기밀 정보를 유출할 수 없다.",
+            "notes": "비밀유지 기간 무기한"
+        },
+        {
+            "type": "exclusive_jurisdiction",
+            "severity": "medium",
+            "loc": {
+                "article": 12,
+                "clause": 2,
+                "page": null
+            },
+            "evidence": "본 계약과 관련된 모든 분쟁은 회사 소재지 관할 법원을 전속 관할로 한다.",
+            "notes": "근로자 관할권 제한"
+        }
+    ],
+    "summary_must_have": [
+        "임금(급여) 조건",
+        "근로시간·휴게시간·연장근로 규정",
+        "계약 기간 및 갱신/종료 조건",
+        "휴가·휴일·결근·지각 처리 기준",
+        "징계·해고·계약해지 요건",
+        "업무 내용 및 배치전환 가능 여부",
+        "4대보험 및 법정 의무 준수 항목",
+        "개인정보 처리 및 분쟁 해결"
+    ],
+    "summary": [
+        {
+            "text": "근무 장소 및 업무는 회사 재량으로 변경 가능하다.",
+            "anchor": "제3조 2항"
+        },
+        {
+            "text": "연장근로는 특별한 사유 없이는 의무적이다.",
+            "anchor": "제4조 3항"
+        },
+        {
+            "text": "즉시해고 가능 사유가 광범위하게 규정되어 있다.",
+            "anchor": "제7조 1항"
+        },
+        {
+            "text": "인턴이 만든 창작물·성과물의 IP는 회사에 전속된다.",
+            "anchor": "제8조 2항"
+        },
+        {
+            "text": "비밀유지 의무는 계약 종료 후에도 지속된다.",
+            "anchor": "제9조 1항"
+        },
+        {
+            "text": "분쟁은 회사 소재지 관할 법원에서 처리된다.",
+            "anchor": "제12조 2항"
+        },
+        {
+            "text": "급여 및 수당 지급 기준이 명확히 규정되어 있다.",
+            "anchor": "제5조"
+        },
+        {
+            "text": "계약 기간은 만료 시 자동 종료되며 갱신 의무는 없다.",
+            "anchor": "제2조"
+        }
+    ],
+    "qa_pairs": [
+        {
+            "question": "인턴 계약은 자동 갱신되나요?",
+            "answer": "아니요. 계약 기간이 만료되면 자동 종료됩니다.",
+            "evidence": {
+                "article": 2,
+                "clause": 1,
+                "quote": "계약 기간은 만료 시 자동 종료된다."
+            }
+        },
+        {
+            "question": "근무지가 바뀔 수 있나요?",
+            "answer": "네. 회사는 근무 장소를 변경할 수 있는 권한을 가집니다.",
+            "evidence": {
+                "article": 3,
+                "clause": 2,
+                "quote": "근무 장소를 변경할 수 있다."
+            }
+        },
+        {
+            "question": "연장근로는 거부할 수 있나요?",
+            "answer": "특별한 사유가 없다면 거부할 수 없습니다.",
+            "evidence": {
+                "article": 4,
+                "clause": 3,
+                "quote": "특별한 사유가 없는 한 이에 응해야 한다."
+            }
+        },
+        {
+            "question": "제가 만든 프로그램의 저작권은 누구에게 있나요?",
+            "answer": "인턴 기간 중 개발한 성과물의 저작권은 회사에 귀속됩니다.",
+            "evidence": {
+                "article": 8,
+                "clause": 2,
+                "quote": "모든 결과물의 지적재산권은 회사에 귀속된다."
+            }
+        },
+        {
+            "question": "분쟁이 생기면 어디에서 해결하나요?",
+            "answer": "회사가 소재한 지역의 관할 법원에서 해결됩니다.",
+            "evidence": {
+                "article": 12,
+                "clause": 2,
+                "quote": "전속 관할로 한다."
+            }
+        }
+    ]
+}

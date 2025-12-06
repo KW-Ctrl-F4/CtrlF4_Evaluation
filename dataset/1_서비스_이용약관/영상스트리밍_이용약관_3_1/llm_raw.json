@@ -1,0 +1,94 @@
+{
+    "risk_items": [
+        {
+            "type": "class_action_ban",
+            "severity": "high",
+            "loc": {
+                "article": 23,
+                "clause": null,
+                "page": null
+            },
+            "evidence": "이용자는 회사와 발생하는 모든 분쟁에 대해 개별적으로 해결해야 하며, ... 집단 소송 ... 제기할 수 없음에 명시적으로 동의합니다.",
+            "notes": ""
+        },
+        {
+            "type": "liability_cap_indirect",
+            "severity": "high",
+            "loc": {
+                "article": 21,
+                "clause": null,
+                "page": null
+            },
+            "evidence": "간접적, 징벌적, 부수적 ... 특별 손해에 대하여 배상 책임을 지지 않으며",
+            "notes": ""
+        },
+        {
+            "type": "personal_data_crossborder",
+            "severity": "high",
+            "loc": {
+                "article": 8,
+                "clause": null,
+                "page": null
+            },
+            "evidence": "이용자의 개인 정보 및 시청 기록을 ... 국외 ... 제3자에게 이전 및 보관하는 것에 대하여 사전적, 포괄적으로 동의합니다.",
+            "notes": ""
+        },
+        {
+            "type": "auto_renewal_strict",
+            "severity": "medium",
+            "loc": {
+                "article": 14,
+                "clause": null,
+                "page": null
+            },
+            "evidence": "정액제 구독 상품은 ... 자동 결제되며 ... 환불되지 않음을 원칙으로 합니다.",
+            "notes": ""
+        }
+    ],
+    "summary_must_have": [
+        "요금/환불 정책",
+        "책임한도 및 간접손해 면책",
+        "개인정보 제3자 제공 또는 국외 이전",
+        "서비스/콘텐츠 변경권",
+        "이용제한 사유",
+        "해지 절차",
+        "준거법/분쟁 절차",
+        "집단소송 금지 및 청구기간 제한"
+    ],
+    "summary": [
+        {
+            "text": "집단소송 금지",
+            "anchor": "23조"
+        },
+        {
+            "text": "간접손해 면책",
+            "anchor": "21조"
+        },
+        {
+            "text": "개인정보 국외이전 동의",
+            "anchor": "8조"
+        },
+        {
+            "text": "자동결제 및 환불 불가",
+            "anchor": "14조"
+        }
+    ],
+    "qa_pairs": [
+        {
+            "question": "집단소송 제기 가능한가?",
+            "answer": "회사를 상대로 집단소송은 제기할 수 없습니다.",
+            "evidence": {
+                "article": 23,
+                "quote": "집단 소송 ... 제기할 수 없음에 명시적으로 동의합니다."
+            }
+        },
+        {
+            "question": "개인정보가 해외로 이전되나?",
+            "answer": "국외 서버 또는 제3자에게 이전·보관될 수 있습니다.",
+            "evidence": {
+                "article": 8,
+                "quote": "개인 정보 및 시청 기록을 ... 국외 ... 제3자에게 이전 및 보관"
+            }
+        }
+    ]
+}

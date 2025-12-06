@@ -1,0 +1,227 @@
+{
+    "risk_items": [
+        {
+            "type": "unilateral_interpretation_power",
+            "severity": "high",
+            "loc": {
+                "article": 1.1,
+                "clause": 2,
+                "page": 1
+            },
+            "evidence": "본 계약의 조항 해석에 의문이 제기될 경우 회사의 경영 방침에 가장 기여하는 방향으로 유일하게 해석된다. 근로자는 이에 대한 이의 제기권을 포기한다.",
+            "notes": "조항 해석 권한이 전적으로 회사에 있음"
+        },
+        {
+            "type": "unilateral_work_condition_change",
+            "severity": "high",
+            "loc": {
+                "article": 1.2,
+                "clause": 1,
+                "page": 1
+            },
+            "evidence": "회사는 필요하다고 판단되는 모든 사유에 근거하여 근로자의 근무 형태·근무 장소를 사전 통지 없이 변경할 수 있는 절대적 권한을 보유한다.",
+            "notes": "배치전환·근무형태 변경의 전면적 권한"
+        },
+        {
+            "type": "wage_penalty_excessive",
+            "severity": "high",
+            "loc": {
+                "article": 1.2,
+                "clause": 2,
+                "page": 1
+            },
+            "evidence": "근로자가 코어 타임을 월 1회라도 불이행하거나 지각할 경우 월 기본급에서 2일치 통상임금을 정액 공제한다.",
+            "notes": "과도한 제재·임금 공제"
+        },
+        {
+            "type": "forfeit_unused_leave",
+            "severity": "high",
+            "loc": {
+                "article": 2.1,
+                "clause": 2,
+                "page": 2
+            },
+            "evidence": "연차가 소멸된 경우 근로자는 소멸된 연차에 대한 법적·금전적 보상 청구권을 영구적으로 포기한다.",
+            "notes": "연차 소멸 후 보상 청구권 포기"
+        },
+        {
+            "type": "full_ip_assignment",
+            "severity": "high",
+            "loc": {
+                "article": 3.1,
+                "clause": 1,
+                "page": 2
+            },
+            "evidence": "근로자가 창출한 모든 형태의 결과물은 창작 시점부터 회사의 독점적 자산으로 귀속된다.",
+            "notes": "전면적 IP 귀속"
+        },
+        {
+            "type": "waive_invention_compensation",
+            "severity": "high",
+            "loc": {
+                "article": 3.1,
+                "clause": 2,
+                "page": 2
+            },
+            "evidence": "근로자는 직무 발명에 대해 법률상 보장되는 모든 종류의 보상 청구권을 영구히 포기한다.",
+            "notes": "직무발명 보상 완전 포기"
+        },
+        {
+            "type": "global_content_license",
+            "severity": "high",
+            "loc": {
+                "article": 3.1,
+                "clause": 3,
+                "page": 2
+            },
+            "evidence": "근로자가 작성·게시·공유하는 모든 콘텐츠에 대해 회사는 전세계적·영구적·비독점적 이용 권한을 가진다.",
+            "notes": "업무 외 콘텐츠까지 이용권 부여"
+        },
+        {
+            "type": "low_performance_termination",
+            "severity": "high",
+            "loc": {
+                "article": 4.1,
+                "clause": 1,
+                "page": 3
+            },
+            "evidence": "6개월 내 2회 이상 최하위 평가를 받으면 징계해고 사유로 즉시 간주된다.",
+            "notes": "평가기준 불명확·해고 위험"
+        },
+        {
+            "type": "3year_noncompete",
+            "severity": "high",
+            "loc": {
+                "article": 4.2,
+                "clause": 1,
+                "page": 3
+            },
+            "evidence": "근로자는 퇴직 후 3년 동안 경쟁 기업에 취업할 수 없다.",
+            "notes": "경업금지 기간 과도"
+        },
+        {
+            "type": "delayed_or_stopped_noncompete_payment",
+            "severity": "high",
+            "loc": {
+                "article": 4.2,
+                "clause": 2,
+                "page": 3
+            },
+            "evidence": "경업금지 보상액은 회사의 재량에 따라 최대 1년까지 지급 유예 또는 중단될 수 있다.",
+            "notes": "경업금지 대가 불확실"
+        },
+        {
+            "type": "penalty_fee_excessive",
+            "severity": "high",
+            "loc": {
+                "article": 4.2,
+                "clause": 3,
+                "page": 3
+            },
+            "evidence": "경업금지 위반 시 연간 임금의 200%를 위약벌로 즉시 청구할 수 있다.",
+            "notes": "과도한 위약벌"
+        },
+        {
+            "type": "exclusive_jurisdiction",
+            "severity": "high",
+            "loc": {
+                "article": 5.1,
+                "clause": 1,
+                "page": 3
+            },
+            "evidence": "모든 분쟁은 회사 본사 소재지 법원을 유일한 관할 법원으로 한다.",
+            "notes": "근로자 관할권 제한"
+        },
+        {
+            "type": "class_action_ban",
+            "severity": "high",
+            "loc": {
+                "article": 5.1,
+                "clause": 2,
+                "page": 3
+            },
+            "evidence": "근로자는 집단 소송을 제기할 권리를 영구히 포기한다.",
+            "notes": "집단소송 포기 조항"
+        },
+        {
+            "type": "claim_period_limit_6months",
+            "severity": "high",
+            "loc": {
+                "article": 5.1,
+                "clause": 2,
+                "page": 3
+            },
+            "evidence": "근로계약 관련 소송 제기 기한은 사유 발생 후 6개월 이내로 제한된다.",
+            "notes": "청구기간 과도하게 짧음"
+        },
+        {
+            "type": "data_export_consent_permanent",
+            "severity": "high",
+            "loc": {
+                "article": 5.2,
+                "clause": 1,
+                "page": 3
+            },
+            "evidence": "개인정보가 국외 서버 또는 제3자에게 전송·저장될 수 있음에 포괄적으로 동의하며, 이 동의는 정보가 파기될 때까지 유효하다.",
+            "notes": "국외 이전 포괄 동의"
+        }
+    ],
+    "summary_must_have": [
+        "임금 및 성과급 조건",
+        "근로시간·유연근무·근태 규정",
+        "계약 기간 및 종료 조건",
+        "연차·휴가·미사용 시 처리",
+        "징계·해고·저성과 해지 요건",
+        "지식재산권(IP) 귀속",
+        "경업금지 의무 및 보상",
+        "개인정보 처리·국외 이전 동의",
+        "분쟁 해결 및 관할 법원",
+        "집단소송 금지·청구기간 제한"
+    ],
+    "summary": {
+        "text": "본 계약은 회사의 경영 방침을 우선하는 해석 규칙과 전면적인 근무 조건 변경 권한을 포함한다. 근로자의 근태 위반에 대해 과도한 금전 공제를 허용하며, 연차 미사용에 대한 보상 청구권을 영구 포기한다. 근로자가 창출한 모든 결과물의 지식재산권은 회사에 완전 귀속되며 직무발명 보상 청구권 또한 영구히 포기된다. 또한 계약은 저성과 해고 기준·3년 경업 금지·과도한 위약벌·국외 이전 포괄 동의를 포함한다. 분쟁 해결은 회사 소재지 법원에 전속되며 집단 소송은 영구 포기된다.",
+        "anchor": "제1조~제5조 전체"
+    },
+    "qa_pairs": [
+        {
+            "question": "계약 조항 해석은 어떻게 이루어지나요?",
+            "answer": "회사의 경영 방침에 가장 부합하는 방향으로 회사가 단독 해석합니다.",
+            "evidence": {
+                "article": 1.1,
+                "quote": "조항 해석은 회사의 경영 방침 유지에 가장 기여하는 방향으로 유일하게 해석된다."
+            }
+        },
+        {
+            "question": "근무 장소나 근무 형태가 마음대로 변경될 수 있나요?",
+            "answer": "네. 회사는 사전 통지 없이 근무 형태와 근무 장소를 변경할 수 있습니다.",
+            "evidence": {
+                "article": 1.2,
+                "quote": "사전통지 없이 유연근무제를 해지하고 근무 장소를 변경할 수 있다."
+            }
+        },
+        {
+            "question": "지각 한 번만 해도 임금 공제가 되나요?",
+            "answer": "네. 코어타임 위반 또는 지각 시 2일치 임금이 공제됩니다.",
+            "evidence": {
+                "article": 1.2,
+                "quote": "근로자의 월 기본급에서 2일치 통상임금을 공제한다."
+            }
+        },
+        {
+            "question": "제가 만든 자료나 아이디어의 저작권은 누구에게 있나요?",
+            "answer": "모든 형태의 결과물은 창작 시점부터 회사의 독점적 자산입니다.",
+            "evidence": {
+                "article": 3.1,
+                "quote": "모든 형태의 결과물에 대한 지식재산권은 회사의 독점적 자산으로 귀속된다."
+            }
+        },
+        {
+            "question": "퇴직 후 경업 금지 기간은 얼마인가요?",
+            "answer": "3년 동안 경쟁업종 취업이 금지됩니다.",
+            "evidence": {
+                "article": 4.2,
+                "quote": "퇴직일로부터 3년 동안 경쟁 업종 취업을 할 수 없다."
+            }
+        }
+    ]
+}

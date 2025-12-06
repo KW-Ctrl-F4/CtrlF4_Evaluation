@@ -1,0 +1,70 @@
+{
+    "ok": true,
+    "run": {
+        "id": 316,
+        "userId": 2,
+        "sessionId": 265,
+        "baseRunId": null,
+        "docId": 396,
+        "status": "completed",
+        "progress": 100,
+        "attempt": 2,
+        "startedAt": "2025-12-06T08:33:12.026677+00:00Z",
+        "finishedAt": "2025-12-06T08:34:30.686907+00:00Z"
+    },
+    "doc": {
+        "id": 396,
+        "name": "위탁용역계약서_5_일반사무_0ba9aa97.pdf"
+    },
+    "session": {
+        "role": "계약 당사자",
+        "answers": {
+            "question": "계약이 종료되면 수탁자가 보관하던 회계장부와 자료는 어떻게 되나요?",
+            "focus": []
+        }
+    },
+    "results": {
+        "qa": {
+            "ok": true,
+            "role": "계약 당사자",
+            "focus": [],
+            "answer": "이 컨텍스트 범위 내에서는 계약 종료 시 수탁자가 보관하던 회계장부와 자료의 처리에 대한 내용을 확인할 수 없습니다.",
+            "status": "done",
+            "worker": "qa",
+            "anchors": [],
+            "question": "계약이 종료되면 수탁자가 보관하던 회계장부와 자료는 어떻게 되나요?",
+            "originalQuestion": "계약이 종료되면 수탁자가 보관하던 회계장부와 자료는 어떻게 되나요?"
+        },
+        "risk": {
+            "items": [],
+            "status": "done"
+        },
+        "summarizer": {
+            "ok": true,
+            "status": "done",
+            "worker": "summarizer",
+            "results": {
+                "by_clause": [],
+                "full_document": {
+                    "summary": "검증 피드백에 따르면, 입력된 문서 자체에 내용이 없거나 처리 과정에서 오류가 발생하여 문서 분석 품질에 심각한 문제가 있습니다. 앵커 정합률(anchorRate)이 0.3333, 키포인트 관련성(kpri) 지표가 0.1로 매우 낮아, Risk worker의 결과에서 'empty pdf'가 반복적으로 나타나는 점을 고려할 때, 모든 워커의 결과가 신뢰하기 어렵습니다. 따라서 원본 문서를 확인하고 모든 워커를 재시도해야 합니다. 이러한 문제로 인해 현재로서는 계약 당사자에게 관련 있고 실행 가능한 정보를 추출하여 핵심 책임, 의무, 마감일, 조건, 리스크, 기회, 실행 항목 등을 명확하고 전문적인 언어로 요약하기 어렵습니다."
+                }
+            },
+            "runtimeSec": 1.57
+        },
+        "verifier": {
+            "kpri": 0.1,
+            "reason": "retry limit 2 reached - force pass",
+            "status": "done",
+            "verdict": "pass",
+            "anchorRate": 0.0,
+            "faithfulness": 0.75,
+            "retryWorkers": []
+        }
+    },
+    "availableWorkers": [
+        "qa",
+        "risk",
+        "summarizer",
+        "verifier"
+    ]
+}
